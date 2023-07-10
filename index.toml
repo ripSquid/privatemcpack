@@ -321,6 +321,11 @@ hash = "18b7b42c8caabe5348f607c1f4cee8ca3938c27e15f818cc310585157a170ee5"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "066c8f73363ff93fcd59f703d918350044b605f5709d03dbcad58f66d223a959"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "253d4e1d9207e3e41aca20f9cbc46304db8ef483b8381709d5a0820ff3768dab"
 metafile = true
