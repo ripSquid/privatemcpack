@@ -1,6 +1,5 @@
 name = "Keys4Macros"
 filename = "keys4macros-forge-1.19.x-3.0.2.jar"
-side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qNyxKoVW/versions/ZzVM4JHZ/keys4macros-forge-1.19.x-3.0.2.jar"
