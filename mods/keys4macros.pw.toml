@@ -1,0 +1,13 @@
+name = "Keys4Macros"
+filename = "keys4macros-forge-1.19.x-3.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qNyxKoVW/versions/ZzVM4JHZ/keys4macros-forge-1.19.x-3.0.2.jar"
+hash-format = "sha1"
+hash = "8fbee6d9b70dbc659cd373a86ec87038545b67cc"
+
+[update]
+[update.modrinth]
+mod-id = "qNyxKoVW"
+version = "ZzVM4JHZ"
