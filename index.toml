@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "2334fd428932efd6ba973e3d10108d26f1c4f67b9684a8850d94ceb74fd917f9"
-
-[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "fb9e7ca06b6a3dc4f1838ff389014952d36c9b8970243c8bef010c0e91fd80f5"
 metafile = true
