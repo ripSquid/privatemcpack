@@ -236,6 +236,11 @@ hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6f26500517ef0d414cc67e77eaf27a127dd5e76b2f7847235c298c40d1604630"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2ce50bd589cef77d38daf50979d273c3774af0dff54c2cc334266b5eef6a03a1"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "5532f5c8ea85263ab2159cdb8ca6a8ef6b76eb4244f114d2876d204b8b3eb536"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "3f5e1fadd4c022cd47fcf7f72ca3df435c409ecfdf233293a3b3add7932ed300"
 metafile = true
 
 [[files]]
