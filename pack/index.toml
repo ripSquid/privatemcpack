@@ -71,6 +71,11 @@ hash = "5b8a438c04feeceefcebb4fd25b8f3db41930a0f6d5aa252b61a78382954da89"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "a58f62babbd51c3ecc14d4aafc2617640c78ecd0428f3b09d6e62857a99b876a"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
@@ -368,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "70d2151591356fb60fe868627cc07ccaae1ad41e6a9973678a7610c25e41231b"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "6bbe31487ae9e36d395eb17c7acf73fbf247510cd8d7838ddbd1c2433b2a6a03"
 metafile = true
 
 [[files]]
