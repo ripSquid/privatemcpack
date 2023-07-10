@@ -171,6 +171,11 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
+file = "mods/findme.pw.toml"
+hash = "903937f8f4532be3ca2a749df02e72bc8a5b8602da7341d588539c5bdc8b2482"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "f7c6841b8490e85dc08ce0a11da0638a00d2468993402ddf222c875fabd20fe6"
 metafile = true
