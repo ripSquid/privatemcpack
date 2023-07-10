@@ -151,6 +151,11 @@ hash = "e6100fffd00b339e62efc3a6eaad54ca697b197813dff048d6dce2613676ef92"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "df351e259399734aa31c6a5200575ed5b9b356cae8a3f6ebccca69345c5a1718"
+metafile = true
+
+[[files]]
 file = "mods/dynmap.pw.toml"
 hash = "d1e79cc686d637e45738281cf1ed9613f1ef3f1b382be70d6723f897380a09d6"
 metafile = true
