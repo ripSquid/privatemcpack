@@ -1,0 +1,13 @@
+name = "Bolibompa Create"
+author = "ripSquid"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f5cb7b588b6f9dd988b53969294c623942ee0fdf60b1cb79212f96a30a2fe8b9"
+
+[versions]
+forge = "43.2.14"
+minecraft = "1.19.2"
