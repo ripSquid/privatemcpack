@@ -76,6 +76,11 @@ hash = "8dfd5ae806895ee6036176990fafede8e5e8d9081f14b9ce241bbc86c79e883c"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "17ff6cf3ba2791f91f54285f2a47a67c0090c1b34d4c665c73721a2467c973f3"
 metafile = true
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "ea63c3493a047fb668d7d204a6d8c7dea8df58081da14774dba90ae55ed6741d"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "b278c5bbfd28feeb69a54f3bd9ad1693e77f348dc7b9727888d6334f94997bae"
 metafile = true
 
 [[files]]
