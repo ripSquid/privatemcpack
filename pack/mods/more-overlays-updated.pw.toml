@@ -3,11 +3,9 @@ filename = "moreoverlays-1.21.9-mc1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f52abf073fc309e7a57fb32f1534f2a9f50d3c52"
-mode = "metadata:curseforge"
+url = "https://pack.koda.re/moreoverlays-1.21.9-mc1.19.2.jar"
 
-[update]
-[update.curseforge]
-file-id = 4571753
-project-id = 391382
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "949093269ad680aeea6b5013773f022e9c9b4a6e0c03900de503ff3b7457d699"
