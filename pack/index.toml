@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "b0b00e7c8f404eff00ff9ff7e4fdeedda3131e78b6c598f37091143bc78a2257"
+hash = "33fc1e5756654482a0c0ad8f95a7496a8443a4325c285166b60d87e91fc95d9f"
 metafile = true
 
 [[files]]
