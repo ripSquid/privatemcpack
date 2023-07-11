@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "d7ee9d2924231bd6994b7ba74214d1ae9355dfa3b9e328e36382ce1aa441d3e9"
-=======
-hash = "59c94fe04da5b3b77f239948506747547c0d832f952ef2bb8374adaaeeb2576b"
->>>>>>> parent of 4c4a20e (Added jei and removed nei)
+hash = "0e6d2978d91b82b0c0d7cd4e2f1c703c9aa653668f375a1a279d98b5fcc26710"
 
 [versions]
 forge = "43.2.14"

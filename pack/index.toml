@@ -221,14 +221,11 @@ hash = "25ec6d75fd9d733ebeb588f63f58c0c13fb90844d4a470537d81052d2ea0f1bc"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
 file = "mods/jei.pw.toml"
 hash = "52afe64a215ec7a20a2424de639020369e5d25fad69ede02a700edde08dd81db"
 metafile = true
 
 [[files]]
-=======
->>>>>>> parent of 4c4a20e (Added jei and removed nei)
 file = "mods/keys4macros.pw.toml"
 hash = "41ca75371e6a17fc55589c13870c2b6f2defdfc96f91915ff3517acefe7e4535"
 metafile = true
@@ -236,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-rei-runtime.pw.toml"
-hash = "6e2270442783ea1a26b381e79b9f939e001277ee7432b886af9810b437cffd18"
 metafile = true
 
 [[files]]
@@ -321,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "6587d3c6073535a418b83bc9f42f0c86a21ea2204262244f37f7cd8c4833694e"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "4f3bb9b27ed6d539fc51c32cfaa5f40fe89e81e483227b5e391d4cbbeb9530fc"
 metafile = true
 
 [[files]]
