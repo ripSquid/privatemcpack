@@ -221,6 +221,11 @@ hash = "25ec6d75fd9d733ebeb588f63f58c0c13fb90844d4a470537d81052d2ea0f1bc"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "6b4b19b314ca50e8672b713d4b200418b11928c0952ce5ffee7455bf03842465"
+metafile = true
+
+[[files]]
 file = "mods/keys4macros.pw.toml"
 hash = "41ca75371e6a17fc55589c13870c2b6f2defdfc96f91915ff3517acefe7e4535"
 metafile = true
@@ -313,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "6587d3c6073535a418b83bc9f42f0c86a21ea2204262244f37f7cd8c4833694e"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "4f3bb9b27ed6d539fc51c32cfaa5f40fe89e81e483227b5e391d4cbbeb9530fc"
 metafile = true
 
 [[files]]
