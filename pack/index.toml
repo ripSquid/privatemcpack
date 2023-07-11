@@ -211,6 +211,11 @@ hash = "ea63c3493a047fb668d7d204a6d8c7dea8df58081da14774dba90ae55ed6741d"
 metafile = true
 
 [[files]]
+file = "mods/incapacitated.pw.toml"
+hash = "26f1ce8941c76f4b3f3d783034ae81d0d5692404d11e77bc52ac1509ea30db57"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "b278c5bbfd28feeb69a54f3bd9ad1693e77f348dc7b9727888d6334f94997bae"
 metafile = true
