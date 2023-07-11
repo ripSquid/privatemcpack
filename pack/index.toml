@@ -156,13 +156,18 @@ hash = "e6100fffd00b339e62efc3a6eaad54ca697b197813dff048d6dce2613676ef92"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "df351e259399734aa31c6a5200575ed5b9b356cae8a3f6ebccca69345c5a1718"
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "40387085c326f5b9feb132c33443654ada0611638655dc46a823f28a9c66cacd"
 metafile = true
 
 [[files]]
 file = "mods/dynmap.pw.toml"
 hash = "d1e79cc686d637e45738281cf1ed9613f1ef3f1b382be70d6723f897380a09d6"
+metafile = true
+
+[[files]]
+file = "mods/extended-slabs-plus.pw.toml"
+hash = "bb5974d380f4a2812c5c444a23dac1a8f440774c6d02a3f09a22ad6849b6c05d"
 metafile = true
 
 [[files]]
@@ -403,6 +408,21 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "6bbe31487ae9e36d395eb17c7acf73fbf247510cd8d7838ddbd1c2433b2a6a03"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-core.pw.toml"
+hash = "bf7f8e3dc9471d9c7c73f44a4a4d11d8fab9f28b6d528694aaf92c5bb06ed052"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite-ultimerite.pw.toml"
+hash = "3d3c752e36c0c5f120a50273bf373242230b25fb46eeb6670139e3fc52af36b9"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite.pw.toml"
+hash = "b6839ff9274c1c1187f76b2000922defa6e95e3e69d3d79f5ef0eddca86cc582"
 metafile = true
 
 [[files]]
