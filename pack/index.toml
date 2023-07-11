@@ -166,6 +166,16 @@ hash = "d1e79cc686d637e45738281cf1ed9613f1ef3f1b382be70d6723f897380a09d6"
 metafile = true
 
 [[files]]
+file = "mods/enderchests.pw.toml"
+hash = "b6c652fc338c1240b5715f84c251063c04d05bbeb9df36238d4937a20047a7fb"
+metafile = true
+
+[[files]]
+file = "mods/endertanks.pw.toml"
+hash = "a0db05b2c7f1dc7d82fa4355dcf0b70f596af095311c17343faee0e818d345ff"
+metafile = true
+
+[[files]]
 file = "mods/extended-slabs-plus.pw.toml"
 hash = "bb5974d380f4a2812c5c444a23dac1a8f440774c6d02a3f09a22ad6849b6c05d"
 metafile = true
@@ -316,6 +326,11 @@ hash = "d6c0f05a4982b73b78910bd95f917bb8a934f4f233d218a3ccc22ea7ecc8bf55"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
+metafile = true
+
+[[files]]
 file = "mods/pv-addon-soundphysics.pw.toml"
 hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
 metafile = true
@@ -343,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/shadow-x-blocks-plus.pw.toml"
 hash = "842bd5c5a0b71b02000e087a5ad3eba764e47cd0282b54398489c68e770526ed"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "7a6e75d5533bc37a5c47806d476278f87c3a780a37c229320dc0f2340d3fb5aa"
 metafile = true
 
 [[files]]
