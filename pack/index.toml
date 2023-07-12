@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "947270308130e568eb420d7530e620dba2596291ca67001d53857f228d3f99f5"
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "fb9e7ca06b6a3dc4f1838ff389014952d36c9b8970243c8bef010c0e91fd80f5"
 metafile = true
