@@ -26,6 +26,11 @@ hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "2264acfbd388023f4c11b06b18e1a8b79b2b078e9fbf4cc38b31e4cb31c653dd"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "00cb4565f09eb467ceb0d56f519196204c2486759963bb204c5e88559ed1ad6a"
 metafile = true
@@ -291,6 +296,11 @@ hash = "6f26500517ef0d414cc67e77eaf27a127dd5e76b2f7847235c298c40d1604630"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "945445396619e9b657d851ac2a57bd2e944a2d380d2ffa8be2a49c438e9c8046"
+metafile = true
+
+[[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "33fc1e5756654482a0c0ad8f95a7496a8443a4325c285166b60d87e91fc95d9f"
 metafile = true
@@ -343,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/pv-addon-soundphysics.pw.toml"
 hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "a018d7dd6bfa797e018e2b6a13fc6cbbea92fb0fdd76f3f58d0daafa13d7e2e7"
 metafile = true
 
 [[files]]
@@ -418,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "18b7b42c8caabe5348f607c1f4cee8ca3938c27e15f818cc310585157a170ee5"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "5d7621ac3a5baa72966d7acb4204f006ec936bdcab70947fcbb8f29cde18fb58"
 metafile = true
 
 [[files]]
