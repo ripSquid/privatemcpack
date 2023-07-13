@@ -493,3 +493,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "5f1ec959361dabb24342cacb065665c616c64b8d60be9a2d93338a26e841fb8c"
 metafile = true
+
+[[files]]
+file = "scripts/remove_enchanting_recipes.zs"
+hash = "669bc5f5475f67fb822dfc1edbb4d924a6b765aa1f328dcc796b6564a7e3ed3e"
