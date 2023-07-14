@@ -90,6 +90,11 @@ hash = "a58f62babbd51c3ecc14d4aafc2617640c78ecd0428f3b09d6e62857a99b876a"
 metafile = true
 
 [[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "1bd73f71f9f4a7da067ed53f4663931e429065e36dab574b380954f386c42564"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
@@ -165,6 +170,11 @@ hash = "e6100fffd00b339e62efc3a6eaad54ca697b197813dff048d6dce2613676ef92"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "d69c20a2bd103b56bfb95abe1542aea61590de5778e8505cae2c0e889191ce87"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "40387085c326f5b9feb132c33443654ada0611638655dc46a823f28a9c66cacd"
 metafile = true
@@ -220,11 +230,6 @@ hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
 metafile = true
 
 [[files]]
-file = "mods/functional-storage.pw.toml"
-hash = "d439497e4c36d0651d2bbff34d04ae743e206e88a12dc84c349816b5b5d47a49"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "ea63c3493a047fb668d7d204a6d8c7dea8df58081da14774dba90ae55ed6741d"
 metafile = true
@@ -232,6 +237,36 @@ metafile = true
 [[files]]
 file = "mods/incapacitated.pw.toml"
 hash = "26f1ce8941c76f4b3f3d783034ae81d0d5692404d11e77bc52ac1509ea30db57"
+metafile = true
+
+[[files]]
+file = "mods/integrated-crafting.pw.toml"
+hash = "7a0c0517a15b32fbbdb07b73f4aff212847986b7c1a34c84e0ca0098b160958f"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "8ff038125aa96077e12248600f73fa00cb04047eb428656f6b8e2ba74ddf1267"
+metafile = true
+
+[[files]]
+file = "mods/integrated-nbt.pw.toml"
+hash = "480706f1c76336d8b56a695259ef7f8091c56e5da053a53c1218b09ffd1613e8"
+metafile = true
+
+[[files]]
+file = "mods/integrated-rest.pw.toml"
+hash = "9680e5ff95d20958d6427b4c1bfd4b2d9a880a9b2b085731c3dea1e5d8affb53"
+metafile = true
+
+[[files]]
+file = "mods/integrated-terminals.pw.toml"
+hash = "3a0726c1929d07265106496d3f50fe6c6d2090a102b9463c8ce9276d110c6645"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "a4a7a3acfd31b7c2ea757f133c2eeb2e7801742551437e452f241bb226402aa4"
 metafile = true
 
 [[files]]
@@ -427,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "61799bc6367ee86a72fe54b131576cbbc6f4dbe1a1a134d561e83b02a72691be"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
 metafile = true
 
 [[files]]
