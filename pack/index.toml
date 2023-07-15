@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a58f62babbd51c3ecc14d4aafc2617640c78ecd0428f3b09d6e62857a99b876a"
+hash = "51ac305aa5338daa92562c574fbf38f79cc3cc789eb390d34e7a1aed2ccee734"
 metafile = true
 
 [[files]]
@@ -112,11 +112,6 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "17ff6cf3ba2791f91f54285f2a47a67c0090c1b34d4c665c73721a2467c973f3"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "5182f1ae2ed8362b765fb712e53027fb569112a1eb6b3d16c4ee37ae95648815"
 metafile = true
 
 [[files]]
@@ -160,11 +155,6 @@ hash = "5e176125b6b630ea8e1cc28bc3532c7c75422e7ee0bb7f008303c4637f129d68"
 metafile = true
 
 [[files]]
-file = "mods/createtweaker.pw.toml"
-hash = "112697884921624f676d57f530054ab128a6a416f4226cac4ed2586d17477069"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "e6100fffd00b339e62efc3a6eaad54ca697b197813dff048d6dce2613676ef92"
 metafile = true
@@ -201,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "fde50922280644688030151b6473a2582544a602612b258d17df281a589ba0cc"
+hash = "100a732c56987989cbab79a79b73385cb3956feb98cb5d6da0d3debf76c2f224"
 metafile = true
 
 [[files]]
@@ -221,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "f7c6841b8490e85dc08ce0a11da0638a00d2468993402ddf222c875fabd20fe6"
+hash = "1b562a5953445aff82aa00a145ec3caff163cf6709e2a995fd6f9ee8709f022c"
 metafile = true
 
 [[files]]
@@ -236,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/incapacitated.pw.toml"
-hash = "26f1ce8941c76f4b3f3d783034ae81d0d5692404d11e77bc52ac1509ea30db57"
+hash = "ad42db7a33fa2c1e07b55ed55ddd3958b53f75886128d987b97d3fbf40810882"
 metafile = true
 
 [[files]]
@@ -261,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-terminals.pw.toml"
-hash = "3a0726c1929d07265106496d3f50fe6c6d2090a102b9463c8ce9276d110c6645"
+hash = "c0fcbdf5b55d7857b429917462c8d2000eac85e832e9ad3f3f891c8a25716a8e"
 metafile = true
 
 [[files]]
@@ -305,11 +295,6 @@ hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "4d1c72cd8de368c49d9e447c9700edae16c77419307547a91d026f4fddef2039"
-metafile = true
-
-[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "e9489a285e104c6070ea6de87498ee7878203fe39fe5334fb018cfb95e77e8dd"
 metafile = true
@@ -330,8 +315,8 @@ hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "6f26500517ef0d414cc67e77eaf27a127dd5e76b2f7847235c298c40d1604630"
+file = "mods/model-gap-fix.pw.toml"
+hash = "9ebfa0f30ebd694ec8b0e8e8c90611ce4bff95bb86ad09afe4392e42ed5dd2d6"
 metafile = true
 
 [[files]]
@@ -441,17 +426,17 @@ metafile = true
 
 [[files]]
 file = "mods/some-assembly-required.pw.toml"
-hash = "405720f988a28e99a861605457bb07067c9f313546fca7e078f4dc9a51c84b4f"
+hash = "0c84be041332601b4a05730ddcf9859d66c8a4b14c7817e26582fe06eb2393f8"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "c80f86352e1ac09901df9ce176a8bc0eda51be0874ae3366b8dcf17812d6a4a1"
+hash = "1000f9959cc5c55b1842228be2717c145fa63925bd9a35213942a5f3857ff91a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f2aabb6fca1ed6ff68ace2c7e130f024a11c72ad3f2866c42ff4ef97b176ae7c"
+hash = "433c9a60e7e02b7bce845291beb5d61d051ca1e7073b6c6f262ce8637ac4a82b"
 metafile = true
 
 [[files]]
@@ -533,7 +518,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "5f1ec959361dabb24342cacb065665c616c64b8d60be9a2d93338a26e841fb8c"
 metafile = true
-
-[[files]]
-file = "scripts/remove_enchanting_recipes.zs"
-hash = "669bc5f5475f67fb822dfc1edbb4d924a6b765aa1f328dcc796b6564a7e3ed3e"
