@@ -50,6 +50,11 @@ hash = "aff5d172f2ef0d9f9a8e2ce00d5fcc864cafb15dc929d9e95e5d08e295fe7258"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "451cf6e7ea30c80ca26db359f86c7a68a0fa812fbcfb043b7b117b258fc21b6f"
 metafile = true
