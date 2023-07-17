@@ -115,6 +115,11 @@ hash = "17ff6cf3ba2791f91f54285f2a47a67c0090c1b34d4c665c73721a2467c973f3"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "e4a29c21f3e9af3fc16358031b73ca7be13a161b62a8bec04aa8e7f10a181ff1"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "4a81559ccdcb639f1a7a4796305088a7cd853e95dca4dd35ca867d982ea636bd"
 metafile = true
@@ -152,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "5e176125b6b630ea8e1cc28bc3532c7c75422e7ee0bb7f008303c4637f129d68"
+metafile = true
+
+[[files]]
+file = "mods/createtweaker.pw.toml"
+hash = "112697884921624f676d57f530054ab128a6a416f4226cac4ed2586d17477069"
 metafile = true
 
 [[files]]
@@ -347,11 +357,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
 hash = "38c48f04de7d9228cdbdf5163007f78b4735800d3da3734ff6ea4b5193087843"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "65f82cef0ab2cec53e6fc90e4b35129f7119c8c4f68d1f9446ce365e42f9c138"
 metafile = true
 
 [[files]]
