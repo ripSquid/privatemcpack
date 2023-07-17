@@ -523,3 +523,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "5f1ec959361dabb24342cacb065665c616c64b8d60be9a2d93338a26e841fb8c"
 metafile = true
+
+[[files]]
+file = "scripts/enchanting_guide_change.zs"
+hash = "1984776e76dc3d721cf578ea5f8384ed8cc9690d4ee49c586d14076e60573fe8"
