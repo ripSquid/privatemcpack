@@ -532,3 +532,7 @@ metafile = true
 [[files]]
 file = "scripts/enchanting_guide_change.zs"
 hash = "1984776e76dc3d721cf578ea5f8384ed8cc9690d4ee49c586d14076e60573fe8"
+
+[[files]]
+file = "scripts/oxidized_copper.zs"
+hash = "621beedeaa5a55e5039ac5f66984f70da68a4fd8c44c8f981f55979ec11087ff"
