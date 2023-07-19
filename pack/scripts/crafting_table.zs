@@ -1,0 +1,10 @@
+craftingTable.addShapeless("spruce_to_oak", <item:minecraft:crafting_table>, [<item:blocksplus:spruce_crafting_table>]);
+craftingTable.addShapeless("birch_to_oak", <item:minecraft:crafting_table>, [<item:blocksplus:birch_crafting_table>]);
+craftingTable.addShapeless("bamboo_to_oak", <item:minecraft:crafting_table>, [<item:blocksplus:bamboo_crafting_table>]);
+craftingTable.addShapeless("mushroom_to_oak", <item:minecraft:crafting_table>, [<item:blocksplus:mushroom_crafting_table>]);
+craftingTable.addShapeless("jungle_to_oak", <item:minecraft:crafting_table>, [<item:blocksplus:jungle_crafting_table>]);
+craftingTable.addShapeless("acacia_to_oak", <item:minecraft:crafting_table>, [<item:blocksplus:acacia_crafting_table>]);
+craftingTable.addShapeless("dark_oak_to_oak", <item:minecraft:crafting_table>, [<item:blocksplus:dark_oak_crafting_table>]);
+craftingTable.addShapeless("mangrove_to_oak", <item:minecraft:crafting_table>, [<item:blocksplus:mangrove_crafting_table>]);
+craftingTable.addShapeless("crimson_to_oak", <item:minecraft:crafting_table>, [<item:blocksplus:crimson_crafting_table>]);
+craftingTable.addShapeless("warped_to_oak", <item:minecraft:crafting_table>, [<item:blocksplus:warped_crafting_table>]);

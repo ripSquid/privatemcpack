@@ -1,0 +1,1 @@
+craftingTable.addShapeless("bookshelf_to_book", <item:minecraft:book> * 3, [<item:minecraft:bookshelf>]);
