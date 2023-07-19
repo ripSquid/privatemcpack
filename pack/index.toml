@@ -190,6 +190,11 @@ hash = "d1e79cc686d637e45738281cf1ed9613f1ef3f1b382be70d6723f897380a09d6"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "8cb9b03d632e5eb55dc8b9daf3af1c43c14193da2748f377d4d760b88e7f5571"
+metafile = true
+
+[[files]]
 file = "mods/enderchests.pw.toml"
 hash = "b6c652fc338c1240b5715f84c251063c04d05bbeb9df36238d4937a20047a7fb"
 metafile = true
@@ -337,11 +342,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "945445396619e9b657d851ac2a57bd2e944a2d380d2ffa8be2a49c438e9c8046"
-metafile = true
-
-[[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "33fc1e5756654482a0c0ad8f95a7496a8443a4325c285166b60d87e91fc95d9f"
 metafile = true
 
 [[files]]
