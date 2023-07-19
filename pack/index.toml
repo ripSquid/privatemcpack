@@ -10,6 +10,11 @@ hash = "fb9e7ca06b6a3dc4f1838ff389014952d36c9b8970243c8bef010c0e91fd80f5"
 metafile = true
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "37285e238852ccb9e14d1ed95f2ec264355c21413c1b07919773862b606fb0ee"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
 metafile = true
@@ -72,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "7c34a75e220f45e295811eeed80d441c99ceaf7a2ad7c3ac52121dfb472b8b17"
+metafile = true
+
+[[files]]
+file = "mods/chatimage.pw.toml"
+hash = "9d617a5a16986e22a775f4cb04c3a0cdf72fcbbbefad8c4ea0f4faa4fb005c98"
 metafile = true
 
 [[files]]
@@ -180,8 +190,18 @@ hash = "d69c20a2bd103b56bfb95abe1542aea61590de5778e8505cae2c0e889191ce87"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "469904d37b095f816ea047150be344d5a590728f8710d7b34d187f8017ad04f6"
+metafile = true
+
+[[files]]
+file = "mods/dustrial-decor.pw.toml"
+hash = "bb9d2f8bb5218c127f6164cac65011286d29577dde7c734521e25704feeb58e1"
 metafile = true
 
 [[files]]
@@ -192,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/dynmap.pw.toml"
 hash = "d1e79cc686d637e45738281cf1ed9613f1ef3f1b382be70d6723f897380a09d6"
+metafile = true
+
+[[files]]
+file = "mods/elytra-bounce.pw.toml"
+hash = "e2ba118a0adc28fb60bde1ad49983fa10421c981d37e141248d57024e0ce71e0"
 metafile = true
 
 [[files]]
@@ -250,6 +275,11 @@ hash = "ea63c3493a047fb668d7d204a6d8c7dea8df58081da14774dba90ae55ed6741d"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "a2ba23849b81080d9028b8587a3439cbd8307300367b09db5f0f8b5094d23c5b"
+metafile = true
+
+[[files]]
 file = "mods/incapacitated.pw.toml"
 hash = "ad42db7a33fa2c1e07b55ed55ddd3958b53f75886128d987b97d3fbf40810882"
 metafile = true
@@ -290,6 +320,11 @@ hash = "b278c5bbfd28feeb69a54f3bd9ad1693e77f348dc7b9727888d6334f94997bae"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "851c2cb5a6ec430f8df11784d97f6762949dfc2b056d1fda465646f7867c4cdf"
 metafile = true
@@ -302,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "6b4b19b314ca50e8672b713d4b200418b11928c0952ce5ffee7455bf03842465"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "52e48ec6907c9fba38819304325362bf532ceb904a838b75c29530480f11bc81"
 metafile = true
 
 [[files]]
@@ -322,6 +362,26 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "e9489a285e104c6070ea6de87498ee7878203fe39fe5334fb018cfb95e77e8dd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "d1ea5998024c1c066c93e0f747936c8e0f94aa513813fff7664324d478061e67"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "0c0819e3f1ca43c84af57322e215cd56c8b94a1b620dd021000e0af5775e8af5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "2d2457ae5c4949c29a2ff048429d61da665fff1262f5a2165715130e2412497a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "907402d6346b305f919727fcb4c49a971025af93b7f119768e3c056da7a24f35"
 metafile = true
 
 [[files]]
@@ -347,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "945445396619e9b657d851ac2a57bd2e944a2d380d2ffa8be2a49c438e9c8046"
+metafile = true
+
+[[files]]
+file = "mods/more-beautiful-buttons.pw.toml"
+hash = "178df757ab5ebd053781281b716e9ab58e9d3c23ccc5aedb9e7696bb71db8549"
 metafile = true
 
 [[files]]
@@ -387,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
 metafile = true
 
 [[files]]
@@ -497,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "253d4e1d9207e3e41aca20f9cbc46304db8ef483b8381709d5a0820ff3768dab"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "d601292a089e55d4aa7dc40473590c5217271967187c432b1848339228702671"
 metafile = true
 
 [[files]]
