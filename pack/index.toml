@@ -220,11 +220,6 @@ hash = "e2ba118a0adc28fb60bde1ad49983fa10421c981d37e141248d57024e0ce71e0"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "8cb9b03d632e5eb55dc8b9daf3af1c43c14193da2748f377d4d760b88e7f5571"
-metafile = true
-
-[[files]]
 file = "mods/enderchests.pw.toml"
 hash = "b6c652fc338c1240b5715f84c251063c04d05bbeb9df36238d4937a20047a7fb"
 metafile = true
@@ -413,6 +408,10 @@ metafile = true
 file = "mods/more-beautiful-buttons.pw.toml"
 hash = "178df757ab5ebd053781281b716e9ab58e9d3c23ccc5aedb9e7696bb71db8549"
 metafile = true
+
+[[files]]
+file = "mods/moreoverlays-1.21.9-mc1.19.2.jar"
+hash = "949093269ad680aeea6b5013773f022e9c9b4a6e0c03900de503ff3b7457d699"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
