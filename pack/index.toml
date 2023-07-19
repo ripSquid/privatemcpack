@@ -530,6 +530,14 @@ hash = "5f1ec959361dabb24342cacb065665c616c64b8d60be9a2d93338a26e841fb8c"
 metafile = true
 
 [[files]]
+file = "scripts/bookshelf_to_book.zs"
+hash = "1aaf55f56bf7c11828adddb800f8aa2e66db931104d8233907b4de9e0848105e"
+
+[[files]]
+file = "scripts/crafting_table.zs"
+hash = "9ca60f9631801aafb49485ce06f75e5b977aaed6f12ed9670b116f68081de4fd"
+
+[[files]]
 file = "scripts/enchanting_guide_change.zs"
 hash = "1984776e76dc3d721cf578ea5f8384ed8cc9690d4ee49c586d14076e60573fe8"
 
