@@ -355,6 +355,11 @@ hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
 metafile = true
 
 [[files]]
+file = "mods/load-my-resources-forge.pw.toml"
+hash = "0eec47224a68e8aa53f623728a8f2787efd7ddaadb8b644d5f0de0569485395a"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "e9489a285e104c6070ea6de87498ee7878203fe39fe5334fb018cfb95e77e8dd"
 metafile = true
@@ -614,6 +619,242 @@ hash = "5f1ec959361dabb24342cacb065665c616c64b8d60be9a2d93338a26e841fb8c"
 metafile = true
 
 [[files]]
+file = "resources/pipez/blockstates/energy_pipe.json"
+hash = "60bb8647bce2f1d5648f3267eaea18a7309f53592497ef29104825ac8eb5ba55"
+
+[[files]]
+file = "resources/pipez/blockstates/fluid_pipe.json"
+hash = "6759e35580d3b55896638f9541bd5042076506e833899f59e60f442e5d1c83e0"
+
+[[files]]
+file = "resources/pipez/blockstates/gas_pipe.json"
+hash = "cce0412cfd51c50b25a9ae2cd78d1724b8538e5d7abdec1adfa4e5e530818817"
+
+[[files]]
+file = "resources/pipez/blockstates/item_pipe.json"
+hash = "5914d30684f52e1edcc541c24a9dfe33c05b3a7437acb47a31819daed1822767"
+
+[[files]]
+file = "resources/pipez/blockstates/universal_pipe.json"
+hash = "4a13801eaa000e051bdb0c467f251c957a5474512a37e247a10438f1e388de99"
+
+[[files]]
+file = "resources/pipez/lang/de_de.json"
+hash = "545859a9f017b2019e247927a563c5996b337a3647f989b907bec5cfd079e829"
+
+[[files]]
+file = "resources/pipez/lang/en_us.json"
+hash = "95cd64568126919a3ba32e4380e780e7d104e81c5c48228b30574078b7a2b04a"
+
+[[files]]
+file = "resources/pipez/lang/ko_kr.json"
+hash = "220ee23157e207221a154187ee46dde497a9a5ef8b9b08d7e997a54bfc692d70"
+
+[[files]]
+file = "resources/pipez/lang/pt_br.json"
+hash = "4a50ed4c9cdf1142111c9284d3dbf7d370d7f2238f83632c17460e2214b7f1eb"
+
+[[files]]
+file = "resources/pipez/lang/ru_ru.json"
+hash = "48ccddc9a6f91d7676a62668d647f669a2d721cb5a1248b43816d2d6f6ca9053"
+
+[[files]]
+file = "resources/pipez/lang/sv_se.json"
+hash = "29c962823c6b8c8935d16917e41fc4c84385a243666515328a1beb4f98a1e573"
+
+[[files]]
+file = "resources/pipez/lang/uk_ua.json"
+hash = "d807a1d692e01ba1654bc5d002153ed346e8c9e8870681cd630f83d9c1caf15d"
+
+[[files]]
+file = "resources/pipez/lang/zh_cn.json"
+hash = "ac9ddbbce8051eda109a92da77be0b1e4f999c4b3ad2871617df7ba85ae5300f"
+
+[[files]]
+file = "resources/pipez/models/block/energy_pipe_core.json"
+hash = "25e6cba74f7de80cd4a270337c6f96c66a8b187179286e84683837550e44db11"
+
+[[files]]
+file = "resources/pipez/models/block/energy_pipe_extract.json"
+hash = "eef4b6d808849859a527db7b5f6e2695fcd856990e66a50b8ae2b90fa73efa67"
+
+[[files]]
+file = "resources/pipez/models/block/energy_pipe_part.json"
+hash = "f3e11bb6fa90fa197bd9c6def10b581e86108f89570ed1a9a0bfe6e5bdb2810e"
+
+[[files]]
+file = "resources/pipez/models/block/fluid_pipe_core.json"
+hash = "675b6711e90e490a5b4eb355f32895ca49e4e0a37edfd35571083fc34e4b7f2f"
+
+[[files]]
+file = "resources/pipez/models/block/fluid_pipe_extract.json"
+hash = "dca202d7ac27a19aa9c4ef3915a7ffa3df4656455dd3993fbf5997e24601d158"
+
+[[files]]
+file = "resources/pipez/models/block/fluid_pipe_part.json"
+hash = "d51c4f685b0224879d710b76e89edee2aff4297b48b20b015c875cf903a9e095"
+
+[[files]]
+file = "resources/pipez/models/block/gas_pipe_core.json"
+hash = "7c9074070f951c6a2fcda38a7491fedff6bed02c1c891fd07d188eaf945aba02"
+
+[[files]]
+file = "resources/pipez/models/block/gas_pipe_extract.json"
+hash = "16bd7b348e5ff1363918cb6ffd4836a9cffa56b5cdfd49bfd60e508fe250b5b2"
+
+[[files]]
+file = "resources/pipez/models/block/gas_pipe_part.json"
+hash = "7e316755b4fc75779ab3e1a0cdc3a1057f3f8025a10d6d6505359f1bc2f80153"
+
+[[files]]
+file = "resources/pipez/models/block/item_pipe_core.json"
+hash = "28a6bace90ee66fe5cee183e4feced192c7291d2a3f1905d7197a1e61d715f48"
+
+[[files]]
+file = "resources/pipez/models/block/item_pipe_extract.json"
+hash = "04b112cfb84499f2689c142ca9623f1abde795b76bc3d7b6f287d4d48496bbbc"
+
+[[files]]
+file = "resources/pipez/models/block/item_pipe_part.json"
+hash = "dc5ec4a25822e9441ec88da9ff6738f2319c95f6ddfac464fa0ea6c8ee9c7d57"
+
+[[files]]
+file = "resources/pipez/models/block/pipe_core.json"
+hash = "a9af5ed255a25371e1382dcecc6c026cc7f419618f54c2e2a90df4faa9a87631"
+
+[[files]]
+file = "resources/pipez/models/block/pipe_extract.json"
+hash = "1d258829f0b662e8951353ff68c0ce5f7a81c398328f04e1657c1118f29204ff"
+
+[[files]]
+file = "resources/pipez/models/block/pipe_part.json"
+hash = "028ac669f10e419996c5836226caeccf9eb41da0a070720050be1fdff1495a9d"
+
+[[files]]
+file = "resources/pipez/models/block/universal_pipe_core.json"
+hash = "9964fa8da94e5f37c2d25c6921bcb5f2a3060b93a0e9188dcde9bbfed4c0cd67"
+
+[[files]]
+file = "resources/pipez/models/block/universal_pipe_extract.json"
+hash = "6f81f5b2b26bbf45482798aa906c7a530466a865a21479ce1e9d251f9e07134c"
+
+[[files]]
+file = "resources/pipez/models/block/universal_pipe_part.json"
+hash = "b464f49d8c0acc9b822ce8d6024b1e04ae03c3128b18b678d4f3e2f48bcf9d49"
+
+[[files]]
+file = "resources/pipez/models/item/advanced_upgrade.json"
+hash = "1145da180d951eac8750aae2bac9757d508c03c582af0a0c87fb73f72bfc1503"
+
+[[files]]
+file = "resources/pipez/models/item/basic_upgrade.json"
+hash = "792b69f165c4f7e807bb3e6045f6fef644c57f5a05f05e0d94756f2ea3db4195"
+
+[[files]]
+file = "resources/pipez/models/item/energy_pipe.json"
+hash = "61a92e7f44607288ed662d608cd71cd25a3d0b00071775ef89e5e7a3c01e6c68"
+
+[[files]]
+file = "resources/pipez/models/item/filter_destination_tool.json"
+hash = "0773d72cfca1c99472d2fdababe2505cb22b6311a14ba4d8f061d6d9624a8d91"
+
+[[files]]
+file = "resources/pipez/models/item/fluid_pipe.json"
+hash = "205b4d43f297decbd6311fd5a205f3209a373eeb630dcbc4dcf3e63630846ce8"
+
+[[files]]
+file = "resources/pipez/models/item/gas_pipe.json"
+hash = "19739e8bc4ce96235e2b5cf3fb59e2700c3ebb9f36a4715609a5016db70909b6"
+
+[[files]]
+file = "resources/pipez/models/item/improved_upgrade.json"
+hash = "e05fc080124b0da185f700cc560c00ed31eb58f1698c2382851f2ad91c09b158"
+
+[[files]]
+file = "resources/pipez/models/item/infinity_upgrade.json"
+hash = "e31f973342d6d7ce32591dd4e685ecd46caeb83807b2601aabf924d1d74974cd"
+
+[[files]]
+file = "resources/pipez/models/item/item_pipe.json"
+hash = "beefd6305a73be20e3f2b28e0ff889e49b3d0885f02f6c6bad013fbf4bf9e19a"
+
+[[files]]
+file = "resources/pipez/models/item/ultimate_upgrade.json"
+hash = "f72139b983a70b60d6866e7ee49d657449389b2dbd8af36191713fc12dd1269a"
+
+[[files]]
+file = "resources/pipez/models/item/universal_pipe.json"
+hash = "e00c56e0b4bb5d3553aff515c85432adae1e6fbc08d878404b3f364d77f10f5d"
+
+[[files]]
+file = "resources/pipez/models/item/wrench.json"
+hash = "fe38a03a270db74a0e79a9d8f34329a99d1f25b548ec31ea86d98b4428a5b13a"
+
+[[files]]
+file = "resources/pipez/sounds.json"
+hash = "c6f8281620c2b87cf6a94f523311eae977e420ef9a6cda8667f61be906ceca90"
+
+[[files]]
+file = "resources/pipez/textures/block/energy_pipe.png"
+hash = "1c21ae45f21fe52fbe55c8ac3a60a9ae6d2f9c87e031e90fe1dd873515377b7e"
+
+[[files]]
+file = "resources/pipez/textures/block/fluid_pipe.png"
+hash = "7db8daaee3f5f9805ce03ca73d60a6465c9892d89b8c2b05ae8ae50c118539ac"
+
+[[files]]
+file = "resources/pipez/textures/block/gas_pipe.png"
+hash = "9586737774f5ba3b59eb2f463955d7ca29f2b4738e63c1a317078615843e70e9"
+
+[[files]]
+file = "resources/pipez/textures/block/item_pipe.png"
+hash = "6afa143edced76f024ef330b786eac310475c7305060912a5f8fa04942cfc3a6"
+
+[[files]]
+file = "resources/pipez/textures/block/universal_pipe.png"
+hash = "c20cf0a5ce7d6f93a3f26ac051811bebd8fc8dfbf9deb05ba01d68188c20b975"
+
+[[files]]
+file = "resources/pipez/textures/gui/container/extract.png"
+hash = "46a480168e699734a54e14696af7aaa45bf9f974b78cc24c7a873ebe502dffd2"
+
+[[files]]
+file = "resources/pipez/textures/gui/container/filter.png"
+hash = "8161b5fff1441d1cb035a53505e36d3788c049d509691eed37261ba03a15718c"
+
+[[files]]
+file = "resources/pipez/textures/item/advanced_upgrade.png"
+hash = "02fd0f6bf0e3b57c8d575c8ea3d2728f4b63f8a59ecad9f3a7bd2ed95725c7c5"
+
+[[files]]
+file = "resources/pipez/textures/item/basic_upgrade.png"
+hash = "27c0b22bad5137807e899ac48708ae69207f0a1e1b4f4a4943035578e19c4d01"
+
+[[files]]
+file = "resources/pipez/textures/item/filter_destination_tool.png"
+hash = "7e61b5d953d443d0afd72a751f273e42ebd57d28c37fcb796ce4b91630f4d800"
+
+[[files]]
+file = "resources/pipez/textures/item/improved_upgrade.png"
+hash = "b9a3e732150935a04cbb39fa8d6f7d114b21ac69ded18c6ed970c5e548699b22"
+
+[[files]]
+file = "resources/pipez/textures/item/infinity_upgrade.png"
+hash = "cac4e736157618d21fffa2accb7e0abbc635c8be70d7a2840b830c158fad6f1b"
+
+[[files]]
+file = "resources/pipez/textures/item/ultimate_upgrade.png"
+hash = "efb81fcec135b95fb888133d0ede26a8eeab6724b715952c3c02ef8e6505a294"
+
+[[files]]
+file = "resources/pipez/textures/item/upgrade_slot.png"
+hash = "6f67fb288d68a7f0864ca5371faa929699e03cf28819f31c29806ee1a0bb95fd"
+
+[[files]]
+file = "resources/pipez/textures/item/wrench.png"
+hash = "d7202bf76c9c1b22008934469723205cba6af0dfc07f8783e083a031a578bcf1"
+
+[[files]]
 file = "scripts/bookshelf_to_book.zs"
 hash = "1aaf55f56bf7c11828adddb800f8aa2e66db931104d8233907b4de9e0848105e"
 
@@ -624,6 +865,10 @@ hash = "9ca60f9631801aafb49485ce06f75e5b977aaed6f12ed9670b116f68081de4fd"
 [[files]]
 file = "scripts/enchanting_guide_change.zs"
 hash = "1984776e76dc3d721cf578ea5f8384ed8cc9690d4ee49c586d14076e60573fe8"
+
+[[files]]
+file = "scripts/gas_pipe.zs"
+hash = "bdaae4525c763ff5347161fb9c02f9feeb58aee6c3c97b87197e4b79ea9b573c"
 
 [[files]]
 file = "scripts/oxidized_copper.zs"
