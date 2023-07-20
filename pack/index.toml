@@ -439,6 +439,11 @@ hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "403cc027e5544af23af67df5d206408adf049a66a2e479bb89da64e6a4452c92"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "917ec70779f62c81d6ecb9c5e07a3599593ca51740ce6aa37914ce4fff4c71c1"
 metafile = true
