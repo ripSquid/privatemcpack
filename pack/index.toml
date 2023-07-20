@@ -215,11 +215,6 @@ hash = "40387085c326f5b9feb132c33443654ada0611638655dc46a823f28a9c66cacd"
 metafile = true
 
 [[files]]
-file = "mods/dynmap.pw.toml"
-hash = "d1e79cc686d637e45738281cf1ed9613f1ef3f1b382be70d6723f897380a09d6"
-metafile = true
-
-[[files]]
 file = "mods/elytra-bounce.pw.toml"
 hash = "e2ba118a0adc28fb60bde1ad49983fa10421c981d37e141248d57024e0ce71e0"
 metafile = true
