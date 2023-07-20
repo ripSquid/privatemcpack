@@ -135,6 +135,11 @@ hash = "e4a29c21f3e9af3fc16358031b73ca7be13a161b62a8bec04aa8e7f10a181ff1"
 metafile = true
 
 [[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "0c8877a234cd48740f58657300fafe12d912af9f7ca86d3630bdc4e3c2b79efe"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "4a81559ccdcb639f1a7a4796305088a7cd853e95dca4dd35ca867d982ea636bd"
 metafile = true
@@ -266,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "ea63c3493a047fb668d7d204a6d8c7dea8df58081da14774dba90ae55ed6741d"
+hash = "78f9382bfeb78bbcfba1212cc41a1fa4e24ef31dc02be30287cf45661332fb67"
 metafile = true
 
 [[files]]
@@ -484,8 +489,13 @@ hash = "71ea9ac031814496a679ede967bbd8db9b765a2725dbfddee7f0b90e653abd38"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "a9095f7027ba873225808dffe768933e43fca3d9e53db152680048e9c6838b7e"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "6587d3c6073535a418b83bc9f42f0c86a21ea2204262244f37f7cd8c4833694e"
+hash = "e7b9b9097eb1c10bb5f01ada856db3fa32287ea1748a00b579e64b2430c91fbf"
 metafile = true
 
 [[files]]
@@ -550,12 +560,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "61459805ead435a8cedf9f599978dce88354a4d3b37e41044f80343e2e9edd9e"
+hash = "37bd46aee9f110535261d6ff6c0f1ad7cdc6a38740120896209a92b2f27b20bc"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "18b7b42c8caabe5348f607c1f4cee8ca3938c27e15f818cc310585157a170ee5"
+hash = "779fc5d3eaf0e88b288da3dfed3ba583125aa75de2b6bd6e5f059463c7df1ebb"
 metafile = true
 
 [[files]]

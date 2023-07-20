@@ -3,11 +3,11 @@ filename = "rechiseled-1.1.1-forge-mc1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/YpkNAWxe/rechiseled-1.1.1-forge-mc1.19.2.jar"
 hash-format = "sha1"
 hash = "14d372e756ab45fadc767e9a860c7c5ace0a463a"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "B0g2vT6l"
-version = "YpkNAWxe"
+[update.curseforge]
+file-id = 4628247
+project-id = 558998
