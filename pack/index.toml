@@ -125,11 +125,6 @@ hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
 
 [[files]]
-file = "mods/corpse.pw.toml"
-hash = "17ff6cf3ba2791f91f54285f2a47a67c0090c1b34d4c665c73721a2467c973f3"
-metafile = true
-
-[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "a1d991e3d1d72ac0a22f14d4d30329437e26f9181962af91657421af7e9916dd"
 metafile = true
