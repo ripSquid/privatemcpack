@@ -275,13 +275,13 @@ hash = "78f9382bfeb78bbcfba1212cc41a1fa4e24ef31dc02be30287cf45661332fb67"
 metafile = true
 
 [[files]]
-file = "mods/immersive-paintings.pw.toml"
-hash = "a2ba23849b81080d9028b8587a3439cbd8307300367b09db5f0f8b5094d23c5b"
+file = "mods/gravestone-mod.pw.toml"
+hash = "a09762f8f867b06b55b564bf8bc570a308c8610890b8680f91a44217c751a0e6"
 metafile = true
 
 [[files]]
-file = "mods/incapacitated.pw.toml"
-hash = "ad42db7a33fa2c1e07b55ed55ddd3958b53f75886128d987b97d3fbf40810882"
+file = "mods/immersive-paintings.pw.toml"
+hash = "a2ba23849b81080d9028b8587a3439cbd8307300367b09db5f0f8b5094d23c5b"
 metafile = true
 
 [[files]]
