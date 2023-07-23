@@ -1502,6 +1502,10 @@ file = "resources/pipez/textures/item/wrench.png"
 hash = "d7202bf76c9c1b22008934469723205cba6af0dfc07f8783e083a031a578bcf1"
 
 [[files]]
+file = "scripts/boneblock.zs"
+hash = "3d88457ddc200e968bea42442eb360a2dd1423db4f6cf757d80e1aec12ecdb57"
+
+[[files]]
 file = "scripts/bookshelf_to_book.zs"
 hash = "1aaf55f56bf7c11828adddb800f8aa2e66db931104d8233907b4de9e0848105e"
 

@@ -1,0 +1,4 @@
+craftingTable.removeByName("minecraft:bone_block");
+craftingTable.removeByName("blocksplus:bone_meal_from_wither_bone_block");
+craftingTable.addShapeless("boneblock_with_bonemeal", <item:minecraft:bone_block>, [<item:minecraft:bone_meal>, <item:minecraft:bone_meal>, <item:minecraft:bone_meal>, <item:minecraft:bone_meal>, <item:minecraft:bone_meal>, <item:minecraft:bone_meal>, <item:minecraft:bone_meal>, <item:minecraft:bone_meal>, <item:minecraft:bone_meal>]);
+craftingTable.addShapeless("wither_boneblock_more_bonemeal", <item:minecraft:bone_meal> * 27, [<item:blocksplus:wither_bone_block>]); 
