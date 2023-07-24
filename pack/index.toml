@@ -60,6 +60,11 @@ hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "451cf6e7ea30c80ca26db359f86c7a68a0fa812fbcfb043b7b117b258fc21b6f"
 metafile = true
@@ -181,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "e6100fffd00b339e62efc3a6eaad54ca697b197813dff048d6dce2613676ef92"
+hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
@@ -212,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-bounce.pw.toml"
 hash = "e2ba118a0adc28fb60bde1ad49983fa10421c981d37e141248d57024e0ce71e0"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "c6e329194f0891f148e8f3054b0d38b44390ecfc9867d507dcd315da7d59ebaf"
 metafile = true
 
 [[files]]
