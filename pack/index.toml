@@ -1528,6 +1528,10 @@ file = "scripts/enchanting_guide_change.zs"
 hash = "1984776e76dc3d721cf578ea5f8384ed8cc9690d4ee49c586d14076e60573fe8"
 
 [[files]]
+file = "scripts/feather.zs"
+hash = "c2482f28a672791e2f08c574719e44941ab8df915dae9cb40cbfe62d0744a232"
+
+[[files]]
 file = "scripts/gas_pipe.zs"
 hash = "bdaae4525c763ff5347161fb9c02f9feeb58aee6c3c97b87197e4b79ea9b573c"
 

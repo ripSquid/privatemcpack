@@ -1,0 +1,1 @@
+craftingTable.addShapeless("roadrunner_to_feather", <item:minecraft:feather>, [<item:alexsmobs:roadrunner_feather>]);
