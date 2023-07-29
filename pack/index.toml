@@ -90,6 +90,11 @@ hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "c79bc97a7a233978a7ecc0dedc6964f30116bc20b8cc6813adebbcef95e33e21"
+metafile = true
+
+[[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "942cb7252713c61b53dff087aa20cf1de90262a1efd6e115a79a2be3ea8e2c24"
 metafile = true
