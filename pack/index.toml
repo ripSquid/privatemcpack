@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/bamboo_block_to_bamboo.zip"
+hash = "b179754a1dfb0a3584212e88a643b926be1286cedd9f5955f6f4a3702dc88449"
+
+[[files]]
 file = "config/openloader/resources/FreshAnimations_v1.8.1.zip"
 hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
 
