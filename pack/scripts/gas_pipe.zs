@@ -1,1 +1,0 @@
-craftingTable.remove(<item:pipez:gas_pipe>);

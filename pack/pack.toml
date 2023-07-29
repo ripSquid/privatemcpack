@@ -1,13 +1,13 @@
-name = "Bolibompa Create"
-author = "ripSquid"
+name = "Pack"
+author = "ripSquidd, AvonOfficial"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7a7b9e36c6eed7a89c3f81f3ad592052a578248154cd51a05fd41c40fb188e7d"
+hash = "372fdb9523ce767f88a03c842e6d3efb0c23373e460a6f6b772cce91cf20d7c2"
 
 [versions]
-forge = "43.2.14"
-minecraft = "1.19.2"
+fabric = "0.14.21"
+minecraft = "1.20.1"
