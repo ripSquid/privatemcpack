@@ -6,6 +6,11 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/ash-api.pw.toml"
+hash = "225aa48b88438cda45d4e6d1937f6be03b8f702ce5375e8c9647e33e50b1ff55"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
 metafile = true
@@ -37,7 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+hash = "df83086d160981e8d4e29defe7253d6b2f3339d33dcc2c72e8359bea2f134960"
+metafile = true
+
+[[files]]
+file = "mods/creepers-keep-items.pw.toml"
+hash = "c6919388ae6b16297c8a89c2b0fb65ae09735bc418869b537df78d5e4a0a0a3d"
 metafile = true
 
 [[files]]
@@ -57,12 +67,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+hash = "c97ac6ec3937a70ee8b4fd2e1c9926c7ca7c8e980a5b0ba5a07a10484be07686"
+metafile = true
+
+[[files]]
+file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
+hash = "ecc7283fd4dfc24ba53f79675491c9feef6864d67c7792e6a3b5008348f9c04c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
 
 [[files]]
@@ -96,11 +116,6 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
-file = "mods/load-my-resources.pw.toml"
-hash = "8356b377c0d753c4677adb9b8697ddd0f4c15cbfffde4dc053164c82bd280926"
-metafile = true
-
-[[files]]
 file = "mods/malilib.pw.toml"
 hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 metafile = true
@@ -118,6 +133,16 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "ce489ec10a2a6d848d391452aa87d60bab75e9b657ae31ed5d4112269005a7d9"
+metafile = true
+
+[[files]]
+file = "mods/paintings.pw.toml"
+hash = "a666c9289311aebe40459e0020794cffba1dc18cd4b05f78b96d4402528314fb"
 metafile = true
 
 [[files]]
@@ -153,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "4586c1cc843da871837e32af14a69af5cfe5f905a913e98cefe33e866f16b85a"
+metafile = true
+
+[[files]]
+file = "mods/transparent.pw.toml"
+hash = "3ed20daac0bffba028a2cceef475254a0a4eace7fd55c02e607e0b1e9890fbbd"
 metafile = true
 
 [[files]]
