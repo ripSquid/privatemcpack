@@ -191,6 +191,11 @@ hash = "75b8ac35dee78b95e98d995a1d22e2b122e39425b2ab8838334b8cac849ca0f4"
 metafile = true
 
 [[files]]
+file = "mods/vtdownloader.pw.toml"
+hash = "a04d4648349d35e607e7173fccfc576d5ebbe804a3716c1bd9154dcce0fd697a"
+metafile = true
+
+[[files]]
 file = "mods/where-is-it.pw.toml"
 hash = "517b19eacd15c3ae28ef83cb7b34ecda3f53c99b117b7cf6d3ce3f0226c2e450"
 metafile = true
