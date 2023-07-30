@@ -9,6 +9,10 @@ file = "config/openloader/data/bamboo_block_to_bamboo.zip"
 hash = "b179754a1dfb0a3584212e88a643b926be1286cedd9f5955f6f4a3702dc88449"
 
 [[files]]
+file = "config/openloader/data/sit_on_any_block-v1.2.2-mc1.19-datapack.zip"
+hash = "a23715b12d713c0d16ae6715d72e94339c4d8b5fe5189945b596e831239fc6e1"
+
+[[files]]
 file = "config/openloader/data/stonecutteretc.zip"
 hash = "0d245715031df4f243a990541a353a2d5e4f069124026f69c0e4bcff60f84ed6"
 
@@ -127,6 +131,21 @@ hash = "235a2ad50dc38b10c95721ec9998aa8da2dbdc46ec1ad11661160c259bf26d12"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "1d79ebde8e642dcc7eb2a9a6f82d311bde223fa3ef2e40f9a11d1bcbd5d11f63"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "878afeed5da92ecd79b16ea7c2d047e5152101a7eaad2927e6b0806768f00805"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "32ca9bdfa9a235a81343e42c919f23d3a38be0a11e747b8427c1d0227b8be7ed"
+metafile = true
+
+[[files]]
 file = "mods/keep-some-inventory.pw.toml"
 hash = "2e3912527d112c1d10bb5329bd8b5b0d1a888c4fa1981c053bd1fde48d772bd0"
 metafile = true
@@ -174,11 +193,6 @@ metafile = true
 [[files]]
 file = "mods/paintings.pw.toml"
 hash = "a666c9289311aebe40459e0020794cffba1dc18cd4b05f78b96d4402528314fb"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
 metafile = true
 
 [[files]]
