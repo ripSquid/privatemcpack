@@ -9,10 +9,6 @@ file = "config/openloader/data/bamboo_block_to_bamboo.zip"
 hash = "b179754a1dfb0a3584212e88a643b926be1286cedd9f5955f6f4a3702dc88449"
 
 [[files]]
-file = "config/openloader/data/sit_on_any_block-v1.2.2-mc1.19-datapack.zip"
-hash = "a23715b12d713c0d16ae6715d72e94339c4d8b5fe5189945b596e831239fc6e1"
-
-[[files]]
 file = "config/openloader/data/stonecutteretc.zip"
 hash = "0d245715031df4f243a990541a353a2d5e4f069124026f69c0e4bcff60f84ed6"
 
