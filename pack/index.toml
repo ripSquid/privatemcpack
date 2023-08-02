@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/data/OmniCut-1.11.0+1.20.zip"
-hash = "4a7b42596e168a2474b29d4bae2cc7cd3213f99808bd1a6d0709e16985598457"
-
-[[files]]
-file = "config/openloader/data/bamboo_block_to_bamboo.zip"
-hash = "b179754a1dfb0a3584212e88a643b926be1286cedd9f5955f6f4a3702dc88449"
-
-[[files]]
-file = "config/openloader/data/stonecutteretc.zip"
-hash = "a4ba4cb9fcb17229d48e00f3194c3f9e4b030c46658dbc824c939591acf4c1d8"
-
-[[files]]
 file = "config/openloader/resources/FreshAnimations_v1.8.1.zip"
 hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
 
@@ -88,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+hash = "c97ac6ec3937a70ee8b4fd2e1c9926c7ca7c8e980a5b0ba5a07a10484be07686"
 metafile = true
 
 [[files]]
@@ -244,6 +232,16 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1ca84eb9de49ab06b94f3ecf00942ffd5298baf597e6a9eb929897235e0a3e87"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "6267e5c90f5a064deec93989c7d22fa90f3366c5d87e92606008d15ea3322dfe"
 metafile = true
 
 [[files]]
