@@ -205,11 +205,6 @@ hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "4586c1cc843da871837e32af14a69af5cfe5f905a913e98cefe33e866f16b85a"
-metafile = true
-
-[[files]]
 file = "mods/transparent.pw.toml"
 hash = "3ed20daac0bffba028a2cceef475254a0a4eace7fd55c02e607e0b1e9890fbbd"
 metafile = true
