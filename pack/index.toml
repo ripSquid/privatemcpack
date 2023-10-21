@@ -25,11 +25,41 @@ hash = "3fc9307201d1eebd5f1ad6cdf46435fa86ab31c7b2e6d05afbc10a7dfff2a7aa"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "5029fe6f50e8833302b9e222e3448915d57f2f0733c0864094d28e08823cbf10"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "1519a933ad5d377cc6fbe75fa7f316b1989e00112dfc712d23af62b3d4a99a85"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "aac087baa5cda20dea324cebd9076991e4802561702b11292d96bdbc6ed15472"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "8f3f8c035ba4edc388e01cd895ab2f2c1ee04ee76d05271d9ad142dc1ed397f5"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "93c0cb6833c425980e0870cff450b44efd14c1327a1f2e52bde7d5644a740180"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "6a4f4cfb2e9ca058c7064d2f4c48dbfda0fbf78dc99c01ac0e52bdd33ca97ed5"
 metafile = true
