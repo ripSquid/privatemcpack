@@ -15,6 +15,11 @@ hash = "f289039741417028577c167e8330a6cf9735210aa004cd4317f412822a2e558a"
 metafile = true
 
 [[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "1a0243a12504f26462f34372d8adf7578739716bc2b004fcbba2f44a07cd85a7"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "714158dafbd5954a8024d5b7e677fc1303d1c0bc665c7df5942d3a685904988e"
 metafile = true
