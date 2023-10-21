@@ -1,0 +1,13 @@
+name = "Floodgate-Fabric"
+filename = "floodgate-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bWrNNfkb/versions/y7veyylg/floodgate-fabric.jar"
+hash-format = "sha1"
+hash = "54c54fddb78795bdf814828b0c641224b25f1331"
+
+[update]
+[update.modrinth]
+mod-id = "bWrNNfkb"
+version = "y7veyylg"
