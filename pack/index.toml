@@ -10,6 +10,11 @@ hash = "3346013c36376766f129ff9f6329a671b7d6f0e1d7bcdddb711a2f71811af0cd"
 metafile = true
 
 [[files]]
+file = "mods/dynmap.pw.toml"
+hash = "4b26f1a1e781e53f02992fa95feff846a3ac4f66b65cf1180695ad9d47e03356"
+metafile = true
+
+[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "f289039741417028577c167e8330a6cf9735210aa004cd4317f412822a2e558a"
 metafile = true
@@ -81,4 +86,14 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "6a4f4cfb2e9ca058c7064d2f4c48dbfda0fbf78dc99c01ac0e52bdd33ca97ed5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "2a9db1d07d293afae5bd9984fe0d3c5dc8f45746a67e823ff77946d0107edcf8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7fc39c9a549b49369efa98e1bad05b71c5de188b875c87aa3c05c28721ba18f8"
 metafile = true
