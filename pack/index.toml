@@ -10,11 +10,6 @@ hash = "3346013c36376766f129ff9f6329a671b7d6f0e1d7bcdddb711a2f71811af0cd"
 metafile = true
 
 [[files]]
-file = "mods/dynmap.pw.toml"
-hash = "4b26f1a1e781e53f02992fa95feff846a3ac4f66b65cf1180695ad9d47e03356"
-metafile = true
-
-[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "f289039741417028577c167e8330a6cf9735210aa004cd4317f412822a2e558a"
 metafile = true
