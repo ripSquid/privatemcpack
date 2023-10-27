@@ -1,6 +1,6 @@
 name = "Tweakeroo"
 filename = "tweakeroo-fabric-1.20.2-0.18.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

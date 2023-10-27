@@ -40,12 +40,12 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "5029fe6f50e8833302b9e222e3448915d57f2f0733c0864094d28e08823cbf10"
+hash = "c28391d1d4703b776e5f902e2e3f7cac34dabdc71d4508b552a0b9560375ebd1"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "1519a933ad5d377cc6fbe75fa7f316b1989e00112dfc712d23af62b3d4a99a85"
+hash = "8c04ecf5231612891abe373b4923d3bde7559020c0fb30007996b91a7fd4eb85"
 metafile = true
 
 [[files]]
@@ -60,12 +60,12 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "8f3f8c035ba4edc388e01cd895ab2f2c1ee04ee76d05271d9ad142dc1ed397f5"
+hash = "ce729f31ab250a43c5168a8adb74899b563a4d6d66a6f5e1e3d17bdaf7fb94ad"
 metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "93c0cb6833c425980e0870cff450b44efd14c1327a1f2e52bde7d5644a740180"
+hash = "85db5e76ae36135361fc839571916a2757d252c3e73460a8f2c9dad9378e1e05"
 metafile = true
 
 [[files]]
@@ -80,15 +80,19 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "6a4f4cfb2e9ca058c7064d2f4c48dbfda0fbf78dc99c01ac0e52bdd33ca97ed5"
+hash = "d866936c2117d5fd5675f7b60a173491adfd5ff75f04d5f97880aae19bccbee0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "095e9c891a335a78e79e242b1d2aff2c9423cccfe54e881c389b443e0d7e29cb"
+hash = "6095baf024d4a3bfddf576b4cf6ed3732b3839edba83950fdfa3c742ec503228"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9fe0ac24d757dd333a235ee9db1dfc61f06d0586146b3ed760783c060d87116e"
+hash = "e57514f1f12b77c902c01ec7fdf951f83712e6b5010c7755834ede469b40aa85"
 metafile = true
+
+[[files]]
+file = "t"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
