@@ -5,6 +5,11 @@ file = "config/openloader/resources/FreshAnimations_v1.8.1.zip"
 hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "260a142b1b04da998ccc93034d31cc64e737bdd6e4538da21441c4d9c506a46d"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "029e4b7bdea59b13a65ccb1fa2a77932e6f367cfa92d75aa355e828a943b856e"
 metafile = true
@@ -69,6 +74,11 @@ hash = "ce729f31ab250a43c5168a8adb74899b563a4d6d66a6f5e1e3d17bdaf7fb94ad"
 metafile = true
 
 [[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "4e026e566d9b5bf8bb9f528e8f0dbe66184e1f514cc00544a3363a21f2feb482"
+metafile = true
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "85db5e76ae36135361fc839571916a2757d252c3e73460a8f2c9dad9378e1e05"
 metafile = true
@@ -81,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "1f922cadccd8b79e824e78d5e2e691e65127e7a500723121a6a6ccc6a1060289"
 metafile = true
 
 [[files]]
