@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0907369c09747fe4604381ce134fe19fbb6bbf1687a8294e3defdfd33c6ea46a"
+hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
 metafile = true
 
 [[files]]
@@ -40,7 +40,7 @@ hash = "df4ae91e452f7124f11b97d625357b00b13208c056e68c5473e1599b1e443317"
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "3d931662764673f358a98063b9a8bb66eb66b388c2234ab27dda59b8ad30df2d"
+hash = "c9a1acd0e42acc8718870596ab5c9b026e3930fdf0f26268ed32c62c2cf467ad"
 metafile = true
 
 [[files]]
@@ -56,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "c28391d1d4703b776e5f902e2e3f7cac34dabdc71d4508b552a0b9560375ebd1"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "e43d696d9a6546f3b622a1242c42d3ec34d3a0739225b9b51319c9402f09041b"
 metafile = true
 
 [[files]]
@@ -110,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "f3f6fc6ca28507844c2076d90b5083b4ea393c05f00cb985a11ba8ee63ec2941"
+hash = "284ede1f5186169a5ef06757edfd525744ba629cd2296e12c63a53cb916e4c22"
 metafile = true
 
 [[files]]
