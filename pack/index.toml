@@ -10,6 +10,11 @@ hash = "260a142b1b04da998ccc93034d31cc64e737bdd6e4538da21441c4d9c506a46d"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a3caf4dd0a0d0a739c8f00a7d81b74c9ae7fdb58b250ddc9b466213dbd385a80"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "029e4b7bdea59b13a65ccb1fa2a77932e6f367cfa92d75aa355e828a943b856e"
 metafile = true
@@ -17,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "3346013c36376766f129ff9f6329a671b7d6f0e1d7bcdddb711a2f71811af0cd"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
 metafile = true
 
 [[files]]
@@ -59,11 +69,6 @@ hash = "c28391d1d4703b776e5f902e2e3f7cac34dabdc71d4508b552a0b9560375ebd1"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "e43d696d9a6546f3b622a1242c42d3ec34d3a0739225b9b51319c9402f09041b"
-metafile = true
-
-[[files]]
 file = "mods/litematica.pw.toml"
 hash = "8c04ecf5231612891abe373b4923d3bde7559020c0fb30007996b91a7fd4eb85"
 metafile = true
@@ -86,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "4e026e566d9b5bf8bb9f528e8f0dbe66184e1f514cc00544a3363a21f2feb482"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "8b343712eb8b0966e4283b60d2bb5592145a9a638f5aa25df699ff2d486bfd4c"
 metafile = true
 
 [[files]]
