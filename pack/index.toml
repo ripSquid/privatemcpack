@@ -30,6 +30,11 @@ hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
 metafile = true
 
 [[files]]
+file = "mods/commandspy.pw.toml"
+hash = "81a97b09c756bca84ad51a5cc888ef9e40b694897915d79099b262bbbc7a0765"
+metafile = true
+
+[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "f289039741417028577c167e8330a6cf9735210aa004cd4317f412822a2e558a"
 metafile = true
