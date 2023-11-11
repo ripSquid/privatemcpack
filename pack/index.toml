@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "2c68f7a751a1c6357cb0db5ad5c1b044936be308bebc633edd911e2cb0b5849f"
+hash = "f9599aefbb1f9c8ab24e93c7fb45a75f844047fba84c9661ed027ff9f8f441fe"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "284ede1f5186169a5ef06757edfd525744ba629cd2296e12c63a53cb916e4c22"
+hash = "414d1edcc8f025855f53b55809cc45822f831390fbdb0619dd8b3490a228d667"
 metafile = true
 
 [[files]]
