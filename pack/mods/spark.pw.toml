@@ -1,13 +1,13 @@
 name = "spark"
-filename = "spark-1.10.54-fabric.jar"
+filename = "spark-1.10.58-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/l6YH9Als/versions/tCU9VuzX/spark-1.10.54-fabric.jar"
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/FeV5OquF/spark-1.10.58-fabric.jar"
 hash-format = "sha1"
-hash = "cc6d6dd27e2d6612e848330b5525026709590239"
+hash = "33bbc9f51ae33023edb264b8c4f4259f358703ad"
 
 [update]
 [update.modrinth]
 mod-id = "l6YH9Als"
-version = "tCU9VuzX"
+version = "FeV5OquF"
