@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a3caf4dd0a0d0a739c8f00a7d81b74c9ae7fdb58b250ddc9b466213dbd385a80"
+hash = "24261d7e999118b4895f8de6312151a6fa83cadfcab99ca305af96b7a5e9cc5a"
 metafile = true
 
 [[files]]
@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
+hash = "3d6b086706dafceb5141954c666068d97b23aab0101836c955e826a0e43b78c6"
 metafile = true
 
 [[files]]
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
+hash = "5e351f182c2aae09834c49d55248703c853d224afb0d4a88502b1e91f16db7d6"
 metafile = true
 
 [[files]]
@@ -55,17 +55,17 @@ hash = "df4ae91e452f7124f11b97d625357b00b13208c056e68c5473e1599b1e443317"
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "c9a1acd0e42acc8718870596ab5c9b026e3930fdf0f26268ed32c62c2cf467ad"
+hash = "3098b72fec5f673c2a9f9441c83af15be137ee031d1fb1bc3e538faeec4e8458"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "bc32a69805e71d6956319c75697bc8ccd5ce6256aa722c568838e73790e3b52b"
+hash = "a5ce40ab31241973d5a9b47ace295d7f901b6aab9f08ecf4955c14df94a887a5"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7df52a269aaabcb9c4d3ce72322177f4cb5d2e8fc8d506554fa6b6290b0ad548"
+hash = "45eda4160256d4c4394a982c67167ff4b85e218834e60203128b850b38b4821b"
 metafile = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "8b343712eb8b0966e4283b60d2bb5592145a9a638f5aa25df699ff2d486bfd4c"
+hash = "1fd81c4b16417dcd35bab5a011164190894d73530592c993ddfd7b08b0d508ff"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
+hash = "4198bbe1756d96d29a82f0134bcbd5f7a2b5c4447b8628fc19fda0d9c712f868"
 metafile = true
 
 [[files]]
@@ -130,22 +130,22 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "098f6e40ea80cb0b4ef522f649984c2c394305baf0363676efb29899ae16df92"
+hash = "6fc8ab7e7e199b3d4d5ea783e846e107140ebfd67c33f6f3cf7cc9682ee43c6d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6095baf024d4a3bfddf576b4cf6ed3732b3839edba83950fdfa3c742ec503228"
+hash = "bef095dcd0c0d6fa531f6b3c37485d9ff990651cbc95c04538555c3382726d58"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e57514f1f12b77c902c01ec7fdf951f83712e6b5010c7755834ede469b40aa85"
+hash = "56d44c272b5da70047cf8a335598b55efb98e8f8d063239d5502c08a80da282c"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "b32427d80bba69d74dec8e9a44476ab543f564580879d8ca9c8e40543ccc0363"
+hash = "107b8b43e9fdd45cc38780875db8e4b976fadacc261f45cb39addd4e0ddb576a"
 metafile = true
 
 [[files]]
