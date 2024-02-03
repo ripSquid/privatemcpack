@@ -54,11 +54,6 @@ hash = "e5826fdb612d73c2e019379fe27a952dc0807502cd938895530b0ff425368206"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "e97fb0a6414879b4ac07651975deb6fef55c9619f9f5761249b94136908a1131"
-metafile = true
-
-[[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "a2d229f1e814f1f673c4a757c6d25a3b30cff2ba5ad752228b3f6243cbddfaa2"
 metafile = true
