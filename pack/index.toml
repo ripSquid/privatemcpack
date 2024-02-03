@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "db3c8e7c289678e7244a3cc0300303ebe68008b134e2ddfb207f7a2fb8cfa262"
+hash = "ecf0553077fcfde056f734c4adabe2ac8bed5d125199f2c4c946b247c8dfcbaa"
 metafile = true
 
 [[files]]
@@ -79,6 +79,11 @@ hash = "85db5e76ae36135361fc839571916a2757d252c3e73460a8f2c9dad9378e1e05"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
 metafile = true
@@ -89,8 +94,13 @@ hash = "94e298bcbb59ac5969aeb066884efeeb0cc3a6ba5accb741eff99acac6e7e97c"
 metafile = true
 
 [[files]]
-file = "mods/vulkanmod.pw.toml"
-hash = "5290b104b21b0e88c4c7baab6ac25f1e9f7218b22d8527af0e4b5349786fd003"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a81aa4f6e7c5bca87f428be9008eae29a797e7c4c34307ec7268799e76c12841"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ba61863e3deac45bbd2da660f458369acd20e1178ecd801ff46400e5cc94d9f8"
 metafile = true
 
 [[files]]
