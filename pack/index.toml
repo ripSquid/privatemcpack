@@ -5,11 +5,6 @@ file = "config/openloader/resources/FreshAnimations_v1.8.1.zip"
 hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "2da3320ba7704f932626355b0ec27c083bca9b453db93b39a524b7ab3143b7c9"
 metafile = true
