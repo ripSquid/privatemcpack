@@ -74,11 +74,6 @@ hash = "f95f933e9c95e22e231d361e809c3f7833a29af7de4cb904134d37a12d9fac6e"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "bab65e32078216683b5b01cf60d06cd01a3cd4ff1339d1b4de1091338c3b1e21"
-metafile = true
-
-[[files]]
 file = "mods/servux.pw.toml"
 hash = "85db5e76ae36135361fc839571916a2757d252c3e73460a8f2c9dad9378e1e05"
 metafile = true
