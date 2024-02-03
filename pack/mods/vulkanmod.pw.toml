@@ -1,0 +1,13 @@
+name = "Vulkan Renderer"
+filename = "VulkanMod_1.20.4-0.3.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bc4c3f96b30f7c3f6fbab2758b0c19097bd8cc1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4992072
+project-id = 635429
