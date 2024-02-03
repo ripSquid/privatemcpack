@@ -79,11 +79,6 @@ hash = "f95f933e9c95e22e231d361e809c3f7833a29af7de4cb904134d37a12d9fac6e"
 metafile = true
 
 [[files]]
-file = "mods/model-gap-fix.pw.toml"
-hash = "4e026e566d9b5bf8bb9f528e8f0dbe66184e1f514cc00544a3363a21f2feb482"
-metafile = true
-
-[[files]]
 file = "mods/rei.pw.toml"
 hash = "bab65e32078216683b5b01cf60d06cd01a3cd4ff1339d1b4de1091338c3b1e21"
 metafile = true
@@ -101,11 +96,6 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "94e298bcbb59ac5969aeb066884efeeb0cc3a6ba5accb741eff99acac6e7e97c"
-metafile = true
-
-[[files]]
-file = "mods/vivecraft.pw.toml"
-hash = "80f1b606016ab045548b4aaa08cd78108d90c3811bf0bfb1cf02d72748f74345"
 metafile = true
 
 [[files]]
