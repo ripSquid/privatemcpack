@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2da3320ba7704f932626355b0ec27c083bca9b453db93b39a524b7ab3143b7c9"
+hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "db3c8e7c289678e7244a3cc0300303ebe68008b134e2ddfb207f7a2fb8cfa262"
+hash = "5d6ea0cebb49bd66b8ff5262809f5b73725c3a5881606a291ded2cc2372de95a"
 metafile = true
 
 [[files]]
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "e5826fdb612d73c2e019379fe27a952dc0807502cd938895530b0ff425368206"
+hash = "cb722c744887ef0c138fd5d4c848df553ef2f4fe0d66878458290be68246bdae"
 metafile = true
 
 [[files]]
@@ -70,12 +70,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "404aed5b1f0b409771dcd76f8f8f532ad5623d246c69c25e83c0148a79033e32"
+hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "f95f933e9c95e22e231d361e809c3f7833a29af7de4cb904134d37a12d9fac6e"
+hash = "a4c5f2b4eba3f6afbfdf2fa96f66113891ad305ef08b26c8ecd157f5850ce545"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "94e298bcbb59ac5969aeb066884efeeb0cc3a6ba5accb741eff99acac6e7e97c"
+hash = "f448e640fb5f591b08c436c27d0891047d9455ddddaa2cbaca604ddad516e679"
 metafile = true
 
 [[files]]
