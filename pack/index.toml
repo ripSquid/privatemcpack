@@ -79,6 +79,11 @@ hash = "a4c5f2b4eba3f6afbfdf2fa96f66113891ad305ef08b26c8ecd157f5850ce545"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "6952047c84c752d8328088b85e768bd98158140947fab7f6e9f51f7a5a206d54"
+metafile = true
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "85db5e76ae36135361fc839571916a2757d252c3e73460a8f2c9dad9378e1e05"
 metafile = true
@@ -111,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ba61863e3deac45bbd2da660f458369acd20e1178ecd801ff46400e5cc94d9f8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/golden-days.pw.toml"
+hash = "b2c5bb82e14d8737341f1212df06f82b87b1ad48bec4c38efb712361c87c81ae"
 metafile = true
 
 [[files]]
