@@ -474,6 +474,11 @@ hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "e8737a3f5d0a22f48f0b0aa8d9f86acdeb0ccb589abfdf7c49d2874e1a27c21e"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
 metafile = true
@@ -636,6 +641,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8c4a142ab3ce68db057ae63a2476d5f04436d3218725984d6f23a40a3021cd19"
+metafile = true
+
+[[files]]
+file = "resourcepacks/golden-days.pw.toml"
+hash = "b2c5bb82e14d8737341f1212df06f82b87b1ad48bec4c38efb712361c87c81ae"
 metafile = true
 
 [[files]]
