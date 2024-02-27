@@ -15,6 +15,11 @@ hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "f5d2d322b1174b1d4ec2bfe304fbb056dcbdb46c9c0f2ba6e41f10b39e27f5ed"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "1964f8bf4fe2e7b29b5f98ba1cef357a0527307b9241bf2ddfd59b74eb9a4a2d"
 metafile = true
@@ -89,6 +94,11 @@ hash = "85db5e76ae36135361fc839571916a2757d252c3e73460a8f2c9dad9378e1e05"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "54c69751c6f2edc132d699cc58395456905d393dd90db317b0bee9b3367f0fce"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
@@ -116,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ba61863e3deac45bbd2da660f458369acd20e1178ecd801ff46400e5cc94d9f8"
+metafile = true
+
+[[files]]
+file = "plugins/simple-voice-chat.pw.toml"
+hash = "a14f76212de064fe26d1ff89f71458130ff4110f0ce8f196217cdc51efba5513"
 metafile = true
 
 [[files]]
