@@ -1,6 +1,6 @@
 name = "Axiom"
 filename = "Axiom-2.5.0-for-MC1.20.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/N6n5dqoA/versions/iOKTCwk8/Axiom-2.5.0-for-MC1.20.4.jar"
