@@ -11,12 +11,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
+hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "24b2f54c8d7f9606a347f7d4af973d394c6a317c9b6cb35eb8609ca8635b4dff"
+hash = "665984095884d5b57d0e66dda57530f3b5a85ef7c638153e501c96e42429b2c2"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5d6ea0cebb49bd66b8ff5262809f5b73725c3a5881606a291ded2cc2372de95a"
+hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
 metafile = true
 
 [[files]]
@@ -50,12 +50,12 @@ hash = "df4ae91e452f7124f11b97d625357b00b13208c056e68c5473e1599b1e443317"
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "3098b72fec5f673c2a9f9441c83af15be137ee031d1fb1bc3e538faeec4e8458"
+hash = "9073cb5d679c1f1ae9c269287bb44e64403d10c1ee1beb3cb758a25244757368"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "009f988a72bbd35987e304fffb19f4dd346d0e2107490541e41399e761bc0ac8"
+hash = "6c782f08bfda032961a4de1f0cfb42559b7337b3f78da0f0027b95f1ee16b1a7"
 metafile = true
 
 [[files]]
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "4e5a8f10e6b1780e056247c3d7ac4440a4496d21beb9f0d95c3eba6b2dcbcd07"
+hash = "343ee465a3cc0c5d52dcc4af5ffa843ed6005d82c0314155212e879dfd8f5af0"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6952047c84c752d8328088b85e768bd98158140947fab7f6e9f51f7a5a206d54"
+hash = "98f25d8c648b5872bab1d59f0ea4acbca07e086af6fb5ff32422d354579cfd91"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "54c69751c6f2edc132d699cc58395456905d393dd90db317b0bee9b3367f0fce"
+hash = "d4f565d24424a9030e482ab657e84dc4d6a59f635e40fc4582204a0d2d1e3b9c"
 metafile = true
 
 [[files]]
@@ -120,22 +120,22 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "df0564ab4f4e3713f030873eb7f689f81b3ed217e35b9bac72aef217c89bd347"
+hash = "a098e70088f9944dd388de43ca1ef77e07fc0bb5d5a6f6ff8e3220ce81003075"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "16e771097162ca4d75d2691bc4adda123a7bd401303d2fa01c8e8243de4a7371"
+hash = "bd3d5246d2d4f4045c81b3cc4965a867b1c99eb71e1f0d04016b322a024d09c4"
 metafile = true
 
 [[files]]
 file = "plugins/simple-voice-chat.pw.toml"
-hash = "a14f76212de064fe26d1ff89f71458130ff4110f0ce8f196217cdc51efba5513"
+hash = "d3c48aa8e7f66a8464787873df46784ba9a3ed313ab462901a437923d7e1829a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/golden-days.pw.toml"
-hash = "b2c5bb82e14d8737341f1212df06f82b87b1ad48bec4c38efb712361c87c81ae"
+hash = "d649eb9f6ff3a8f99087c4677bcbcdb6a3e93aaf71957e9f6a01ca90270cfe32"
 metafile = true
 
 [[files]]

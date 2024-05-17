@@ -1,13 +1,13 @@
 name = "Golden Days Base"
-filename = "golden-days-base-1.20.x-1.10.0.zip"
+filename = "golden-days-base-1.20.x-1.10.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BFzJ6aQL/versions/WWCQLi0H/golden-days-base-1.20.x-1.10.0.zip"
+url = "https://cdn.modrinth.com/data/BFzJ6aQL/versions/5IJMjzov/golden-days-base-1.20.x-1.10.1.zip"
 hash-format = "sha1"
-hash = "2ca193460fc726863dfe9c75893e654a3c4e4bd3"
+hash = "6560542ab0399655b92a5ca2686145cb2a2862de"
 
 [update]
 [update.modrinth]
 mod-id = "BFzJ6aQL"
-version = "WWCQLi0H"
+version = "5IJMjzov"
