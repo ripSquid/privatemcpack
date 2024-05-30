@@ -50,11 +50,6 @@ hash = "23d47a8dd394dfd847a4b59f7813798765439a9c2bdcb54bb98fd7a96eac123b"
 metafile = true
 
 [[files]]
-file = "mods/custom-player-models.pw.toml"
-hash = "a141736e60fd7d1886cb6df3c3e063a4d7db511b1883429716ef269489a765f2"
-metafile = true
-
-[[files]]
 file = "mods/dataloader.pw.toml"
 hash = "aa9d315c31ee5e4241f829fd37e907dac85a84a5c7d28f0a17d52a2718a7a07b"
 metafile = true
@@ -157,9 +152,8 @@ hash = "40db85936e7296ee0940dd86a9355202d40f23d6af5631cc6e05ae2059e9c78b"
 metafile = true
 
 [[files]]
-file = "mods/tweakeroo.pw.toml"
-hash = "f448e640fb5f591b08c436c27d0891047d9455ddddaa2cbaca604ddad516e679"
-metafile = true
+file = "mods/tweakeroo-fabric-1.20.6-0.19.999-sakura.6.jar"
+hash = "9f63af12657c71c6ddc61c6b69bfcd4fa749f99b7bc7c05828bdb7b41dae2543"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
