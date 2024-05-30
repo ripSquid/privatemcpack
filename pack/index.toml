@@ -40,6 +40,11 @@ hash = "45f85718f96b800b2215104af5dc799d26722380e94322198ff565e71c61b36b"
 metafile = true
 
 [[files]]
+file = "mods/chat.pw.toml"
+hash = "b70b91e821864942e2e992d99aaad2f590e788bb52017df9ed6e90a823152179"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
 metafile = true
@@ -127,9 +132,8 @@ hash = "a4792fde3b01ca94f94fcd969b5a5a194a7359305fa41f16d09e945b5165d7f2"
 metafile = true
 
 [[files]]
-file = "mods/servux.pw.toml"
-hash = "85db5e76ae36135361fc839571916a2757d252c3e73460a8f2c9dad9378e1e05"
-metafile = true
+file = "mods/servux-fabric-1.20.6-0.1.999-sakura.4.jar"
+hash = "47df324b1cf12e38d67626fd488cba357436516218d41523acd744cc4b57f363"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
