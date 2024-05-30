@@ -1,13 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/data/blazeandcaves-advancements-pack.pw.toml"
-hash = "bdeb17dad4b68fddc658af7a476b34f4c792801550928ed5bf410620aaf9a65d"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/FreshAnimations_v1.8.1.zip"
 hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
+
+[[files]]
+file = "datapacks/blazeandcaves-advancements-pack.pw.toml"
+hash = "bdeb17dad4b68fddc658af7a476b34f4c792801550928ed5bf410620aaf9a65d"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -32,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
+metafile = true
+
+[[files]]
+file = "mods/dataloader.pw.toml"
+hash = "aa9d315c31ee5e4241f829fd37e907dac85a84a5c7d28f0a17d52a2718a7a07b"
 metafile = true
 
 [[files]]
@@ -86,11 +91,6 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "a4c5f2b4eba3f6afbfdf2fa96f66113891ad305ef08b26c8ecd157f5850ce545"
-metafile = true
-
-[[files]]
-file = "mods/open-loader.pw.toml"
-hash = "34a66f42f07fc9de990a566d168b64e1037fe69eb2ebf10e1fa234e19959e5c8"
 metafile = true
 
 [[files]]
