@@ -45,11 +45,6 @@ hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
 metafile = true
 
 [[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "23d47a8dd394dfd847a4b59f7813798765439a9c2bdcb54bb98fd7a96eac123b"
-metafile = true
-
-[[files]]
 file = "mods/dataloader.pw.toml"
 hash = "aa9d315c31ee5e4241f829fd37e907dac85a84a5c7d28f0a17d52a2718a7a07b"
 metafile = true
