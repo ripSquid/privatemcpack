@@ -119,14 +119,12 @@ hash = "7527bb370b000a5eded465cbf3f32f9cb6448b483c5d72653dc40f52222bd0aa"
 metafile = true
 
 [[files]]
-file = "mods/malilib.pw.toml"
-hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
-metafile = true
+file = "mods/malilib-fabric-1.20.6-0.18.999-sakura.4.jar"
+hash = "8e8387583d3795e7e5b5f92ab470a8fa61c542de6817d2f385f7db783f4067b0"
 
 [[files]]
-file = "mods/minihud.pw.toml"
-hash = "a4c5f2b4eba3f6afbfdf2fa96f66113891ad305ef08b26c8ecd157f5850ce545"
-metafile = true
+file = "mods/minihud-fabric-1.20.6-0.30.999-sakura.7.jar"
+hash = "fd91d036af9397be6cfac52632f8b3ba84d5f7021ddfa21c48fb214aa4bc87b2"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
