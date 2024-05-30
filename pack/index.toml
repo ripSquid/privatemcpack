@@ -142,7 +142,3 @@ metafile = true
 file = "resourcepacks/golden-days.pw.toml"
 hash = "d649eb9f6ff3a8f99087c4677bcbcdb6a3e93aaf71957e9f6a01ca90270cfe32"
 metafile = true
-
-[[files]]
-file = "t"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
