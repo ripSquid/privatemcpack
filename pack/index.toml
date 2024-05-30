@@ -99,9 +99,8 @@ hash = "91a0470f0cc6061e0d4b61e480273483af69478417942ec46259268c85bca47f"
 metafile = true
 
 [[files]]
-file = "mods/item-scroller.pw.toml"
-hash = "a2d229f1e814f1f673c4a757c6d25a3b30cff2ba5ad752228b3f6243cbddfaa2"
-metafile = true
+file = "mods/itemscroller-fabric-1.20.6-0.22.999-sakura.4.jar"
+hash = "8b832afc16d1c6339fc0b420a9515b2e01270fe13ee5b31fb915307e1ac959bd"
 
 [[files]]
 file = "mods/lithium.pw.toml"
