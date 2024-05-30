@@ -10,6 +10,16 @@ hash = "bdeb17dad4b68fddc658af7a476b34f4c792801550928ed5bf410620aaf9a65d"
 metafile = true
 
 [[files]]
+file = "datapacks/gm4-double-doors.pw.toml"
+hash = "f3f2a0efb2a00c66522a14854c663a80ba02818bed732f6f864682738d8e7ff6"
+metafile = true
+
+[[files]]
+file = "datapacks/gm4-shapeless-portals.pw.toml"
+hash = "bcda2c7c7e4eca376caaec4db9848cbb354d0fab9789e22937d03209f8d32b62"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4ec707c9f04bf1691cde76f2de389bb33e8332a325182d927cb186a280899796"
 metafile = true
@@ -35,8 +45,23 @@ hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
 metafile = true
 
 [[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "23d47a8dd394dfd847a4b59f7813798765439a9c2bdcb54bb98fd7a96eac123b"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "a141736e60fd7d1886cb6df3c3e063a4d7db511b1883429716ef269489a765f2"
+metafile = true
+
+[[files]]
 file = "mods/dataloader.pw.toml"
 hash = "aa9d315c31ee5e4241f829fd37e907dac85a84a5c7d28f0a17d52a2718a7a07b"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "bfd6f9ff0b08f5a856706cc4f9e8a803a6b32665e891085256b2f4fc8f58219d"
 metafile = true
 
 [[files]]
@@ -55,12 +80,22 @@ hash = "de9b4c380deeac410ffaf86722842ad7197767f26fbf6c92189175f454cd7817"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
 file = "mods/floodgate-sqlite-database.jar"
 hash = "df4ae91e452f7124f11b97d625357b00b13208c056e68c5473e1599b1e443317"
 
 [[files]]
 file = "mods/floodgate.pw.toml"
 hash = "af75e62fd92f3ededffb82a6fcdb6eb8f501440786a4447dba38daf7664087bc"
+metafile = true
+
+[[files]]
+file = "mods/fsit.pw.toml"
+hash = "21c7dfbc007c5c7faadc295d972876abf760e66bff6faa3b14dcd41d35d0befb"
 metafile = true
 
 [[files]]
@@ -91,6 +126,16 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "a4c5f2b4eba3f6afbfdf2fa96f66113891ad305ef08b26c8ecd157f5850ce545"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "b6c8fe81a75bc2c3292ef642e62985c2d9e270ad26f7aa044ff33b906425e8a8"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]

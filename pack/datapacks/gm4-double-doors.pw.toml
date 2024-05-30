@@ -1,0 +1,13 @@
+name = "Double Doors"
+filename = "gm4_double_doors_1_20_5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vx4zJ1Np/versions/hddu0nJR/gm4_double_doors_1_20_5.zip"
+hash-format = "sha1"
+hash = "d0327a10ed2a939a1f093d22c8acabb4394a86ad"
+
+[update]
+[update.modrinth]
+mod-id = "Vx4zJ1Np"
+version = "hddu0nJR"
