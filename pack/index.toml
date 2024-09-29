@@ -99,21 +99,9 @@ hash = "b51207b6729aa78d49d7de09bcd69dcf6e2245ae5aea50e6646a978cc613271c"
 metafile = true
 
 [[files]]
-file = "mods/itemscroller-fabric-1.20.6-0.22.999-sakura.4.jar"
-hash = "8b832afc16d1c6339fc0b420a9515b2e01270fe13ee5b31fb915307e1ac959bd"
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "bf87266803c4386966e90dc88a99888e3bb6e519d11c18b1edccbec507814b93"
 metafile = true
-
-[[files]]
-file = "mods/malilib-fabric-1.20.6-0.18.999-sakura.4.jar"
-hash = "8e8387583d3795e7e5b5f92ab470a8fa61c542de6817d2f385f7db783f4067b0"
-
-[[files]]
-file = "mods/minihud-fabric-1.20.6-0.30.999-sakura.7.jar"
-hash = "fd91d036af9397be6cfac52632f8b3ba84d5f7021ddfa21c48fb214aa4bc87b2"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
@@ -124,10 +112,6 @@ metafile = true
 file = "mods/polytone.pw.toml"
 hash = "5f5ef0acc77aab702144303babbf28aca3d894f4eb9e87de148491d5c44ee234"
 metafile = true
-
-[[files]]
-file = "mods/servux-fabric-1.20.6-0.1.999-sakura.4.jar"
-hash = "47df324b1cf12e38d67626fd488cba357436516218d41523acd744cc4b57f363"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -143,10 +127,6 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
-
-[[files]]
-file = "mods/tweakeroo-fabric-1.20.6-0.19.999-sakura.6.jar"
-hash = "9f63af12657c71c6ddc61c6b69bfcd4fa749f99b7bc7c05828bdb7b41dae2543"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
