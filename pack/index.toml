@@ -11,57 +11,57 @@ metafile = true
 
 [[files]]
 file = "datapacks/gm4-double-doors.pw.toml"
-hash = "f3f2a0efb2a00c66522a14854c663a80ba02818bed732f6f864682738d8e7ff6"
+hash = "d53ab7d808db1ba5ec83c5f7e0045260b7d1741cffcb852abfd54ac1f34bbbfe"
 metafile = true
 
 [[files]]
 file = "datapacks/gm4-shapeless-portals.pw.toml"
-hash = "bcda2c7c7e4eca376caaec4db9848cbb354d0fab9789e22937d03209f8d32b62"
+hash = "f4c6b06b0221e8cea41fd1fde72cbeb4a4d3b301e3fa12d170dd4de88bbae028"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "4ec707c9f04bf1691cde76f2de389bb33e8332a325182d927cb186a280899796"
+hash = "c8671e5cdac3c56974c1bd4d9e42e1ffc53137a5730ee2bdfd471245ed950fbe"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2f16fa49c1e3ae4102e2de61c23c6892a351396c59f8bd0c5231323da9a49603"
+hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "bd0cf10179fff445cf0a6d354b446751be4e8c1188196cf276f2e0afeffbcf40"
+hash = "7cd4cdcdfb84f334076d6e07fe8663d772bb665808fb7b5baa02c94268d90b06"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "45f85718f96b800b2215104af5dc799d26722380e94322198ff565e71c61b36b"
+hash = "48c6a4e310601532ac6a9e7f2f814128f75af9a541aee5a6e39d2d5475d967af"
 metafile = true
 
 [[files]]
 file = "mods/chat.pw.toml"
-hash = "b70b91e821864942e2e992d99aaad2f590e788bb52017df9ed6e90a823152179"
+hash = "d2b665f79fee3422dca69e85e2638cc8896245952c57c2f3c98c52e284e3b1ba"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
 
 [[files]]
 file = "mods/dataloader.pw.toml"
-hash = "aa9d315c31ee5e4241f829fd37e907dac85a84a5c7d28f0a17d52a2718a7a07b"
+hash = "ff49f4d955b64cd2c8162e5d4d08dfd600c5afc8ad7514a71c174a84fd4b294f"
 metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "bfd6f9ff0b08f5a856706cc4f9e8a803a6b32665e891085256b2f4fc8f58219d"
+hash = "5cfdebf79480f71e84191358887f49eb8cc59b7d937f2e5be73fb8267606da2b"
 metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "caffae5d23211e603b78703c9572f91b41839c79b169c47f5fd6bd8b908a7522"
+hash = "68452d7f7f35fd0857c2732c191347a37d4749180d299b2eba48350503a9b54e"
 metafile = true
 
 [[files]]
@@ -71,12 +71,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "de9b4c380deeac410ffaf86722842ad7197767f26fbf6c92189175f454cd7817"
+hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
 metafile = true
 
 [[files]]
@@ -85,17 +85,17 @@ hash = "df4ae91e452f7124f11b97d625357b00b13208c056e68c5473e1599b1e443317"
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "af75e62fd92f3ededffb82a6fcdb6eb8f501440786a4447dba38daf7664087bc"
+hash = "3a3d9cba0c9da1971eddae54866deece0febad091a31bbec4c28b0de9d266304"
 metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "21c7dfbc007c5c7faadc295d972876abf760e66bff6faa3b14dcd41d35d0befb"
+hash = "87e7ac394350852985094c38cd5425bb7ce9a511b8651159dce890a2cffb9904"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "91a0470f0cc6061e0d4b61e480273483af69478417942ec46259268c85bca47f"
+hash = "b51207b6729aa78d49d7de09bcd69dcf6e2245ae5aea50e6646a978cc613271c"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ hash = "8b832afc16d1c6339fc0b420a9515b2e01270fe13ee5b31fb915307e1ac959bd"
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7527bb370b000a5eded465cbf3f32f9cb6448b483c5d72653dc40f52222bd0aa"
+hash = "bf87266803c4386966e90dc88a99888e3bb6e519d11c18b1edccbec507814b93"
 metafile = true
 
 [[files]]
@@ -117,17 +117,12 @@ hash = "fd91d036af9397be6cfac52632f8b3ba84d5f7021ddfa21c48fb214aa4bc87b2"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "b6c8fe81a75bc2c3292ef642e62985c2d9e270ad26f7aa044ff33b906425e8a8"
-metafile = true
-
-[[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a4792fde3b01ca94f94fcd969b5a5a194a7359305fa41f16d09e945b5165d7f2"
+hash = "5f5ef0acc77aab702144303babbf28aca3d894f4eb9e87de148491d5c44ee234"
 metafile = true
 
 [[files]]
@@ -136,17 +131,17 @@ hash = "47df324b1cf12e38d67626fd488cba357436516218d41523acd744cc4b57f363"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "eca882f18cd953115b8ba27dda39a00751bfd1901532dc280e1c6b5355bc2b91"
+hash = "2c8f367d6824a639f1d76775456042bb6460fbe6bdb0ae084485323bc885c66b"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
+hash = "32183306d7fd027a408716bc1d40b66f50fdeb5ecb5ad5ee3309f7c89bd00da4"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "40db85936e7296ee0940dd86a9355202d40f23d6af5631cc6e05ae2059e9c78b"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
@@ -155,17 +150,17 @@ hash = "9f63af12657c71c6ddc61c6b69bfcd4fa749f99b7bc7c05828bdb7b41dae2543"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "daf75be65e16686252f54a2609f531db62c88ff9df99e036ed6bc7ea53f125b8"
+hash = "ceb7deabe90beccb700e198aa23113c619e42b57cedf6ea3cae1b091f9b464b8"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "78405fa2737749f686e39d4b8a3fa04744bd007ab9e38b24971868295ce71597"
+hash = "cdfdf0c6df124e7dd7498544b050648c098f4f4d66fdd47348bbad404633ce1b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7bf91f46bb8e242f9d94781b813169a90cd7f1ceca307d853fcacb8444192c80"
+hash = "9931b0160d974dd22abe5fc320a61ac512315c89c6e7d8a6829474adbf979b95"
 metafile = true
 
 [[files]]

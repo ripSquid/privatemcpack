@@ -1,17 +1,17 @@
 name = "Pack"
-author = "ripSquidd, AvonOfficial"
+author = "ripSquid, AvonOfficial"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e912c397b463eac19b06105693f60bdab4ce1bf34c489dc841a34070c36a61ab"
+hash = "35ca7c7c3371e3ab622556a02ba320b50456e0e8995e8786abec332fd0676b40"
 
 [versions]
-fabric = "0.15.11"
-minecraft = "1.20.6"
+fabric = "0.16.5"
+minecraft = "1.21.1"
 
 [options]
-acceptable-game-versions = ["1.20.6"]
+acceptable-game-versions = ["1.21.1"]
 datapack-folder = "datapacks"

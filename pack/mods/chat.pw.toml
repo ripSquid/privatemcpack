@@ -1,13 +1,13 @@
 name = "Chat Control"
-filename = "chat-control-1.4.jar"
+filename = "chat-control-1.6.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/TgknIsMY/versions/tU94gKhq/chat-control-1.4.jar"
+url = "https://cdn.modrinth.com/data/TgknIsMY/versions/EgrgcVJI/chat-control-1.6.2.jar"
 hash-format = "sha1"
-hash = "7498e4f0f04546517f64d44c126581c8d4f4cf59"
+hash = "1b3f4814a21aa3559742a12b52986a0a86307911"
 
 [update]
 [update.modrinth]
 mod-id = "TgknIsMY"
-version = "tU94gKhq"
+version = "EgrgcVJI"
