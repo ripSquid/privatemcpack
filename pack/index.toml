@@ -89,11 +89,6 @@ hash = "3a3d9cba0c9da1971eddae54866deece0febad091a31bbec4c28b0de9d266304"
 metafile = true
 
 [[files]]
-file = "mods/fsit.pw.toml"
-hash = "87e7ac394350852985094c38cd5425bb7ce9a511b8651159dce890a2cffb9904"
-metafile = true
-
-[[files]]
 file = "mods/geyser.pw.toml"
 hash = "b51207b6729aa78d49d7de09bcd69dcf6e2245ae5aea50e6646a978cc613271c"
 metafile = true
